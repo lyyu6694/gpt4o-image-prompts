@@ -1,0 +1,10 @@
+# 告诉 Git，下面这些文件如果发生冲突，永远保留我自己的版本 (ours)
+
+# 保护图片不被原作者
+images/hero2.png merge=ours
+images/hero3.png merge=ours
+images/sg666.png merge=ours
+images/sg777.png merge=ours
+
+# 保护主页文件（因为你修改了跳转链接），防止原作者把广告加回来
+index.html merge=ours
