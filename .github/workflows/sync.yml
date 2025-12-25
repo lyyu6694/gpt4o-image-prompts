@@ -1,0 +1,44 @@
+name: Upstream Sync
+
+permissions:
+  contents: write
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # 每天0点运行
+  workflow_dispatch:
+
+jobs:
+  sync_latest_from_upstream:
+    name: Sync latest commits from upstream repo
+    runs-on: ubuntu-latest
+    if: ${{ github.event.repository.fork }}
+
+    steps:
+      # 1. 检出你的代码
+      - name: Checkout target repo
+        uses: actions/checkout@v3
+
+      # 2. 【关键】配置 Git 保护策略
+      # 遇到 merge=ours 的文件（在 .gitattributes 里定义的），直接保留你的版本
+      - name: Setup Merge Strategy
+        run: |
+          git config --global merge.ours.driver true
+
+      # 3. 同步上游代码
+      - name: Sync upstream changes
+        id: sync
+        uses: aormsby/Fork-Sync-With-Upstream-action@v3.4
+        with:
+          upstream_sync_repo: songguoxs/gpt4o-image-prompts
+          upstream_sync_branch: master
+          target_sync_branch: master
+          target_repo_token: ${{ secrets.ACTION_TOKEN }}
+          test_mode: false
+
+      # 4. 检查是否成功
+      - name: Sync check
+        if: failure()
+        run: |
+          echo "[Error] 同步失败，请手动检查冲突。"
+          exit 1
