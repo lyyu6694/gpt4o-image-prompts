@@ -62,7 +62,7 @@ a:hover {
   display: grid;
   grid-template-columns: display: block; /* 或者 grid-template-columns: 1fr; */
   /*gap: 1rem;*/
-  align-items: stretch;
+  align-items: center;
 }
 
 .header-top {
@@ -78,8 +78,9 @@ a:hover {
   height: 55px;            /* 设置 Logo 高度，你可以改成 40px 或 60px */
   width: auto;             /* 保持比例 */
   margin-right: 15px;      /* 图片和右边文字的距离 */
-  border-radius: var(--radius-sm); /* 圆角，保持和网页风格一致 */
+  border-radius: 12px;
   flex-shrink: 0;          /* 强制不准压缩图片，防止变扁 */
+  overflow: hidden;
 }
 
 .header-top-close {
@@ -110,7 +111,7 @@ a:hover {
 }
 
 .tagline {
-  margin: 0.8rem 0 0;
+  margin: 0.3rem 0 0;
   color: var(--text-subtle);
   font-size: 1rem;
 }
@@ -174,7 +175,7 @@ a:hover {
   gap: 0.6rem;
   padding: 0.6rem 0.9rem;
   flex: 1 1 600px;
-  min-width: 240px;
+  min-width: 100%;
   width: auto;
   max-width: 75%;
   background: rgba(15, 23, 42, 0.6);
@@ -588,69 +589,84 @@ pre {
 }
 
 /* =========================================
-   📱 手机端适配 (把这段完全覆盖原来的 @media 部分)
+   📱 手机端适配 (完全替换文件最底部的 @media 部分)
    ========================================= */
 @media (max-width: 768px) {
   /* 1. 整体变为单列布局 */
   .app-header {
-    grid-template-columns: 1fr;
-    padding: 1rem;
+    grid-template-columns: 1fr; /* 强制一列 */
+    padding: 1rem 1.5rem;       /* 稍微增加一点左右内边距 */
     height: auto;
     position: relative;
+    justify-items: center;      /* 让内容在网格里居中 */
   }
 
-  /* 2. 左侧内容占满屏幕 */
+  /* 2. 左侧内容区域：全宽适配 */
   .controls-with-left {
     grid-column: 1;
     width: 100%;
+    /* 确保里面的内容也是居中的 */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
   }
 
-  /* 3. Logo 稍微变小 */
+  /* 3. Logo和标题区域：保持 flex 布局以便 Logo在左文字在右，但整体居中 */
+  .header-top {
+    justify-content: center;
+    margin-bottom: 0;
+    width: 100%;
+  }
+
+  /* 4. Logo 适配 */
   #my-logo {
-    height: 36px;
-    margin-right: 10px;
+    height: 40px;       /*稍微大一点点*/
+    margin-right: 12px;
   }
   
-  /* 4. 标题文字适配 */
+  /* 5. 标题和描述文字适配 */
+  .title-container {
+    text-align: left; /* Logo在左侧时，文字左对齐比较好看 */
+  }
   .header-top h1 { 
-    font-size: 1.25rem; 
+    font-size: 1.3rem;
+    margin-bottom: 4px;
   }
   .tagline { 
     font-size: 0.9rem; 
-    white-space: normal; 
+    white-space: normal; /* 允许换行 */
+    margin-top: 0;       /* 清除电脑端的边距 */
   }
 
-  /* --- 👇 重点改动在这里 👇 --- */
+  /* --- 👇 重点修改：搜索框区域上下居中 👇 --- */
   
-  /* 5. 控制栏：改为垂直排列 (标题在上，搜索框在下) */
+  /* 6. 控制栏：垂直排列，并增加上下边距来实现居中效果 */
   .control-bar {
     display: flex;
-    flex-direction: column; /* 垂直堆叠 */
-    align-items: stretch;   /* 拉伸宽度 */
-    gap: 10px;              /* 间距 */
-    margin-top: 10px;       /* 离上面标题远一点 */
-    margin-bottom: 5px;
+    flex-direction: column;
+    align-items: stretch;
+    gap: 12px;
+    width: 100%;
+    
+    /* 【关键】设置较大的上下边距，让它看起来在标题和页面内容之间居中 */
+    margin: 25px 0; 
   }
 
-  /* 6. 搜索框：变矮、占满宽度 */
+  /* 7. 搜索框：占满宽度，高度适中 */
   .search-field {
-    width: 100%;        /* 强制 100% 宽 */
-    max-width: 100%;    /* 解除限制 */
-    height: 36px;       /* 高度变矮 (原来是44px) */
-    font-size: 0.9rem;  /* 字体稍微小一点 */
-    flex: none;         /* 禁止 flex 自动计算，听 width 的话 */
+    width: 100%;
+    max-width: 100%;
+    height: 40px;
+    font-size: 0.95rem;
+    flex: none;
   }
   
-  /* 7. 搜索框里的按钮高度适配 */
-  #clearSearch {
-    height: 100%;
-  }
-  
-  /* 8. 统计文字和清除筛选按钮：左右分开 */
+  /* 8. 统计和按钮行 */
   .actions-row { 
     width: 100%; 
     justify-content: space-between;
-    margin-top: 5px;
+    padding: 0 5px; /* 稍微往里缩一点 */
   }
 
   /* -------------------------- */
@@ -664,6 +680,7 @@ pre {
   /* 弹窗高度适配 */
   .modal-content { max-height: 85vh; }
 }
+/* (确保文件末尾那几个电脑端布局的类还在，不要删) */
 /* =========================================
    2. 电脑端核心布局 (这部分必须保留在最下面)
    ========================================= */
