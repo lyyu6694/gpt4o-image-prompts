@@ -1,21 +1,14 @@
-# 告诉 Git，下面这些文件如果发生冲突，永远保留我自己的版本
-
-
-
-# 保护你的自定义图片，防止被原作者的广告图覆盖
-
+# --- 之前的配置 ---
 images/hero2.png merge=ours
-
 images/hero3.png merge=ours
-
 images/sg666.png merge=ours
-
 images/sg777.png merge=ours
-
 assets/openlogo.jpeg merge=ours
 
+# --- 核心文件保护 (必加) ---
 
-
-# 保护你的主页（因为你修改了跳转链接），防止原作者改回去
-
+# 1. 保护网页骨架 (因为你改了Logo位置、删了广告位)
 index.html merge=ours
+
+# 2. 保护样式表 (因为你改了Logo大小、重写了手机端适配)
+assets/styles.css merge=ours
