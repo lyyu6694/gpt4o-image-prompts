@@ -173,10 +173,10 @@ a:hover {
   align-items: center;
   gap: 0.6rem;
   padding: 0.6rem 0.9rem;
-  flex: 1 1 360px;
+  flex: 1 1 600px;
   min-width: 240px;
   width: auto;
-  max-width: 50%;
+  max-width: 75%;
   background: rgba(15, 23, 42, 0.6);
   border: 1px solid var(--border);
   border-radius: var(--radius-md);
@@ -588,10 +588,10 @@ pre {
 }
 
 /* =========================================
-   1. 手机端适配样式 (替换原来的 @media)
+   📱 手机端适配 (把这段完全覆盖原来的 @media 部分)
    ========================================= */
 @media (max-width: 768px) {
-  /* 布局变成单列 */
+  /* 1. 整体变为单列布局 */
   .app-header {
     grid-template-columns: 1fr;
     padding: 1rem;
@@ -599,46 +599,71 @@ pre {
     position: relative;
   }
 
-  /* 左侧内容占满 */
+  /* 2. 左侧内容占满屏幕 */
   .controls-with-left {
     grid-column: 1;
     width: 100%;
   }
 
-  /* Logo 变小 */
+  /* 3. Logo 稍微变小 */
   #my-logo {
     height: 36px;
     margin-right: 10px;
   }
-
-  /* 标题和搜索框适配 */
-  .header-top h1 { font-size: 1.25rem; }
-  .tagline { font-size: 0.9rem; white-space: normal; }
   
+  /* 4. 标题文字适配 */
+  .header-top h1 { 
+    font-size: 1.25rem; 
+  }
+  .tagline { 
+    font-size: 0.9rem; 
+    white-space: normal; 
+  }
+
+  /* --- 👇 重点改动在这里 👇 --- */
+  
+  /* 5. 控制栏：改为垂直排列 (标题在上，搜索框在下) */
   .control-bar {
-    flex-direction: column;
-    align-items: stretch;
-    gap: 10px;
-    margin-top: 10px;
+    display: flex;
+    flex-direction: column; /* 垂直堆叠 */
+    align-items: stretch;   /* 拉伸宽度 */
+    gap: 10px;              /* 间距 */
+    margin-top: 10px;       /* 离上面标题远一点 */
+    margin-bottom: 5px;
   }
-  
-  .search-field {
-    width: 100%;
-    max-width: 100%;
-    height: 44px;
-  }
-  
-  .actions-row { width: 100%; justify-content: space-between; }
 
-  /* 隐藏右侧大图广告，节省手机空间 */
+  /* 6. 搜索框：变矮、占满宽度 */
+  .search-field {
+    width: 100%;        /* 强制 100% 宽 */
+    max-width: 100%;    /* 解除限制 */
+    height: 36px;       /* 高度变矮 (原来是44px) */
+    font-size: 0.9rem;  /* 字体稍微小一点 */
+    flex: none;         /* 禁止 flex 自动计算，听 width 的话 */
+  }
+  
+  /* 7. 搜索框里的按钮高度适配 */
+  #clearSearch {
+    height: 100%;
+  }
+  
+  /* 8. 统计文字和清除筛选按钮：左右分开 */
+  .actions-row { 
+    width: 100%; 
+    justify-content: space-between;
+    margin-top: 5px;
+  }
+
+  /* -------------------------- */
+
+  /* 隐藏右侧广告 */
   .controls-with-right { display: none; }
   
+  /* 标签筛选器位置修正 */
   .tag-filter-container { grid-column: 1; }
   
   /* 弹窗高度适配 */
   .modal-content { max-height: 85vh; }
 }
-
 /* =========================================
    2. 电脑端核心布局 (这部分必须保留在最下面)
    ========================================= */
