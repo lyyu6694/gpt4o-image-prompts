@@ -589,96 +589,94 @@ pre {
 }
 
 /* =========================================
-   📱 手机端适配 (完全替换文件最底部的 @media 部分)
+   📱 手机端终极适配 (强制上下排列版)
    ========================================= */
 @media (max-width: 768px) {
-  /* 1. 整体变为单列布局 */
+
+  /* 1. 最外层容器：变成单列，且允许高度自适应 */
   .app-header {
-    grid-template-columns: 1fr; /* 强制一列 */
-    padding: 1rem 1.5rem;       /* 稍微增加一点左右内边距 */
+    display: flex !important;      /* 强制变成 Flex 布局 */
+    flex-direction: column !important; /* 强制内容【从上往下】排 */
+    padding: 1rem 1.2rem;
     height: auto;
     position: relative;
-    justify-items: center;      /* 让内容在网格里居中 */
   }
 
-  /* 2. 左侧内容区域：全宽适配 */
+  /* 2. 左侧区域：占满宽度，内部也强制垂直排列 */
   .controls-with-left {
-    grid-column: 1;
     width: 100%;
-    /* 确保里面的内容也是居中的 */
     display: flex;
-    flex-direction: column;
-    align-items: center;
-    text-align: center;
+    flex-direction: column; /* 👈 关键：让 标题 和 搜索框 上下排 */
+    align-items: flex-start; /* 左对齐 */
+    gap: 15px; /* 标题和搜索框之间的距离 */
   }
 
-  /* 3. Logo和标题区域：保持 flex 布局以便 Logo在左文字在右，但整体居中 */
+  /* 3. 顶部 Logo 和标题区域 */
   .header-top {
-    justify-content: center;
-    margin-bottom: 0;
     width: 100%;
+    display: flex;
+    align-items: center; /* Logo和文字垂直居中 */
+    margin-bottom: 0;
   }
 
-  /* 4. Logo 适配 */
+  /* Logo 大小适配 */
   #my-logo {
-    height: 40px;       /*稍微大一点点*/
+    height: 40px; 
     margin-right: 12px;
+    border-radius: 8px; /* 加一点圆角 */
   }
-  
-  /* 5. 标题和描述文字适配 */
+
+  /* 标题文字适配 */
   .title-container {
-    text-align: left; /* Logo在左侧时，文字左对齐比较好看 */
+    flex: 1; /* 占满剩余空间 */
   }
-  .header-top h1 { 
-    font-size: 1.3rem;
+  .header-top h1 {
+    font-size: 1.2rem;
+    line-height: 1.2;
     margin-bottom: 4px;
   }
-  .tagline { 
-    font-size: 0.9rem; 
+  .tagline {
+    font-size: 0.85rem;
     white-space: normal; /* 允许换行 */
-    margin-top: 0;       /* 清除电脑端的边距 */
+    margin: 0;
   }
 
-  /* --- 👇 重点修改：搜索框区域上下居中 👇 --- */
-  
-  /* 6. 控制栏：垂直排列，并增加上下边距来实现居中效果 */
+  /* 4. 搜索框区域：强制放在下面，并且占满一行 */
   .control-bar {
-    display: flex;
-    flex-direction: column;
-    align-items: stretch;
-    gap: 12px;
-    width: 100%;
+    width: 100%;           /* 👈 宽度 100% */
+    margin-top: 5px;       /* 再次确保和上面有间距 */
     
-    /* 【关键】设置较大的上下边距，让它看起来在标题和页面内容之间居中 */
-    margin: 25px 0; 
+    display: flex;
+    flex-direction: column; /* 搜索框和下面的统计文字上下排 */
+    gap: 10px;
   }
 
-  /* 7. 搜索框：占满宽度，高度适中 */
+  /* 5. 搜索框本体 */
   .search-field {
+    width: 100% !important;     /* 👈 强制占满屏幕宽度 */
+    max-width: 100% !important; /* 解除任何最大宽度限制 */
+    height: 42px;               /* 高度适中 */
+    flex: none;                 /* 禁止缩放 */
+    box-sizing: border-box;     /* 确保内边距不撑大宽度 */
+  }
+
+  /* 6. 统计文字和清除按钮 */
+  .actions-row {
     width: 100%;
-    max-width: 100%;
-    height: 40px;
-    font-size: 0.95rem;
-    flex: none;
-  }
-  
-  /* 8. 统计和按钮行 */
-  .actions-row { 
-    width: 100%; 
-    justify-content: space-between;
-    padding: 0 5px; /* 稍微往里缩一点 */
+    display: flex;
+    justify-content: space-between; /* 一左一右 */
+    padding: 0 4px;
+    font-size: 0.85rem;
   }
 
-  /* -------------------------- */
+  /* --- 隐藏电脑端的右侧广告 --- */
+  .controls-with-right {
+    display: none !important;
+  }
 
-  /* 隐藏右侧广告 */
-  .controls-with-right { display: none; }
-  
-  /* 标签筛选器位置修正 */
-  .tag-filter-container { grid-column: 1; }
-  
-  /* 弹窗高度适配 */
-  .modal-content { max-height: 85vh; }
+  /* --- 其他修正 --- */
+  .tag-filter-container { grid-column: 1; width: 100%; }
+  .modal-content { max-height: 80vh; }
 }
 /* (确保文件末尾那几个电脑端布局的类还在，不要删) */
 /* =========================================
