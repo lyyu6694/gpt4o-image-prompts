@@ -4,6 +4,7 @@ images/hero3.png merge=ours
 images/sg666.png merge=ours
 images/sg777.png merge=ours
 assets/openlogo.jpeg merge=ours
+favicon.ico merge=ours
 
 # --- 核心文件保护 (必加) ---
 
