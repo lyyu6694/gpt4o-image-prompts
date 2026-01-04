@@ -33,6 +33,17 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 1061：路口转角反光镜 ](#prompt-1061)
+*   [案例 1060：极简空间的向上凝视 ](#prompt-1060)
+*   [案例 1059：活力四射的自拍 ](#prompt-1059)
+*   [案例 1058：新中式水墨绘本 ](#prompt-1058)
+*   [案例 1057：咖啡馆的雨天小确幸 ](#prompt-1057)
+*   [案例 1056：与手机原图同框的铅笔肖像 ](#prompt-1056)
+*   [案例 1055：国际顶流时尚杂志封面 ](#prompt-1055)
+*   [案例 1054：逆光发梢的温柔怅惘 ](#prompt-1054)
+*   [案例 1053：一幅极其细腻的日式水彩插画 ](#prompt-1053)
+*   [案例 1052：空姐浮生记 ](#prompt-1052)
+*   [案例 1051：冬日晴空下的闺蜜团 ](#prompt-1051)
 *   [案例 1050：3D风格的女子靠在五彩缤纷的墙上 ](#prompt-1050)
 *   [案例 1049：角色设定草图 ](#prompt-1049)
 *   [案例 1048：女性面部涂口红和唇彩效果的图像 ](#prompt-1048)
@@ -94,6 +105,852 @@
 ## [点击：查看201-300个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/300.md)
 ## [点击：查看101-200个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/200.md)
 ## [点击：查看100提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/100.md)
+
+
+
+
+
+
+
+
+
+
+
+
+<a id="prompt-1061"></a>
+## 案例 1061：路口转角反光镜 (来源 [@94vanAI](https://x.com/94vanAI/status/2007609243872932056)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/1061.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-路口转角反光镜">
+</div>
+
+**提示词：**
+```
+｛Masterpiece, best quality, ultra detailed 8k resolution, sharp focus, cinematic lighting, depth of field, perfect composition, award-winning professional photography style, impeccable attention to detail, exquisite textures, close-up 1:1 scale macro shot, beautiful Chinese female idol girl taking mirror selfie in large convex road safety traffic mirror at urban street intersection corner at night, her cute face with big sparkling eyes, delicate features, long silky black hair, white bunny ears headband, wearing cozy brown and white striped scarf around neck, sweet idol-like expression, reflection in the convex mirror shows wide-angle distorted panoramic view of the intersection with her full cute figure, cars, pedestrians, buildings, street lights in dramatic fisheye distortion, her slender hand with elegant Van Cleef & Arpels Alhambra bracelet (gold clover motifs) visible reaching forward holding phone for selfie, soft comfortable nighttime ambiance, warm golden glow from street lamps and neon reflections illuminating the scene and mirror surface, golden hour tones mixed with gentle night blue, high dynamic range, realistic glass convex mirror texture, strong mirror reflections, photorealistic skin jewelry metal details, vibrant yet cozy colors, no text, no watermark.ar3:4
+Negative prompt: low quality, blurry, deformed face hands, bad anatomy, extra limbs, mutated, ugly, poorly drawn, watermark, text, signature, overexposed, underexposed, cartoon, 3d render, horror, daytime bright sun.｝
+```
+
+**中文提示词：**
+```
+杰作，最佳画质，超高清8K分辨率，清晰对焦，电影级光影，景深完美，构图精妙，屡获殊荣的专业摄影风格，对细节的极致追求，精致的纹理，1:1微距特写，一位美丽的中国女偶像在夜色笼罩的城市十字路口，对着大型凸面交通安全镜自拍。她可爱的脸庞，明亮的大眼睛，精致的五官，柔顺的黑色长发，戴着白色兔耳朵发箍，脖子上围着舒适的棕白条纹围巾，甜美的偶像气质扑面而来。凸面镜的倒影呈现出十字路口的广角扭曲全景，她可爱的身影、汽车、行人、建筑物、路灯都以戏剧性的鱼眼畸变呈现。她纤细的手戴着优雅的梵克雅宝Alhambra手镯（金色四叶草图案），伸出手拿着手机自拍。柔和舒适的夜色氛围，路灯和霓虹灯的温暖金光照亮了场景和镜面，尽显黄金时刻的迷人风采。色调融合柔和的夜蓝色，高动态范围，逼真的玻璃凸面镜纹理，强烈的镜面反射，照片级逼真的皮肤、珠宝和金属细节，鲜艳而温馨的色彩，无文字，无水印。ar3:4
+负面提示：低质量、模糊、面部和手部畸形、解剖结构错误、多余肢体、变异、丑陋、绘制粗糙、水印、文字、签名、曝光过度、曝光不足、卡通、3D渲染、恐怖、白天强光。
+```
+
+<a id="prompt-1060"></a>
+## 案例 1060：极简空间的向上凝视 (来源 [@rovvmut_](https://x.com/rovvmut_/status/2007668589588025467)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/1060.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-极简空间的向上凝视">
+</div>
+
+**提示词：**
+```
+{
+"image_type": "photographic portrait",
+"style": "studio portrait, cinematic, minimalist",
+"composition": {
+"orientation": "portrait",
+"framing": "full body from extreme high angle",
+"subject_position": "centered",
+"camera_angle": "top-down (bird’s-eye / overhead)",
+"lens_distortion": "strong wide-angle perspective exaggeration",
+"negative_space": "extensive surrounding empty space",
+"perspective": "dramatic overhead with subject looking up"
+},
+"subject": {
+"count": 1,
+"description": "young person with glasses",
+"pose": "standing upright, shoulders slightly forward, arms relaxed",
+"expression": "soft, introspective, mildly curious",
+"gaze": "looking directly up at the camera",
+"accessories": [
+"round eyeglasses"
+],
+"clothing": {
+"outerwear": "dark brown jacket",
+"innerwear": "light-colored knit or textured shirt",
+"style": "casual, understated"
+}
+},
+"facial_details": {
+"features": "rounded face, soft jawline",
+"emotion": "calm, thoughtful",
+"eye_emphasis": "enhanced by glasses and upward gaze"
+},
+"lighting": {
+"type": "studio lighting",
+"setup": "top-centered soft light with gradual falloff",
+"contrast": "low to moderate",
+"shadows": "subtle shadows beneath chin and body",
+"vignette": "strong radial vignette darkening toward edges"
+},
+"color": {
+"palette": [
+"cool gray",
+"charcoal",
+"muted brown",
+"soft beige"
+],
+"temperature": "cool-neutral",
+"saturation": "low",
+"mood": "quiet, contemplative"
+},
+"background": {
+"environment": "studio",
+"surface": "smooth seamless floor",
+"gradient": "radial gradient from light center to dark edges",
+"distractions": "none"
+},
+"technical_details": {
+"camera_type": "digital",
+"lens": "ultra-wide or fisheye-style wide-angle",
+"depth_of_field": "deep (entire subject in focus)",
+"sharpness": "high center sharpness with slight edge softness",
+"noise": "minimal",
+"post_processing": [
+"contrast shaping",
+"cool color grading",
+"vignette enhancement",
+"perspective exaggeration"
+]
+},
+"artistic_elements": {
+"concept": "isolation and vulnerability through scale and perspective",
+"visual_metaphor": "small subject surrounded by vast empty space",
+"aesthetic_influences": [
+"editorial portrait photography",
+"modern studio minimalism",
+"cinematic overhead compositions"
+]
+},
+"typography": {
+"presence": false
+},
+"overall_mood": "intimate, introspective, slightly surreal",
+"intended_use": [
+"editorial portrait",
+"conceptual photography reference",
+"AI image generation style guide"
+]
+}
+```
+
+**中文提示词：**
+```
+{
+"image_type": "摄影肖像",
+“风格”：“影棚肖像、电影感、极简主义”，
+“作品”： {
+“方向”: “竖屏”
+“构图”：“从极高角度拍摄的全身照”，
+"subject_position": "居中",
+"camera_angle": "俯视（鸟瞰/上方）",
+"lens_distortion": "强烈的广角透视夸张",
+"负空间": "大片的周围空白空间",
+“视角”： “戏剧性的俯视视角，主体向上看”
+},
+“主题”： {
+“计数”：1，
+描述：戴眼镜的年轻人
+“姿势”：“站直，肩膀略微前倾，手臂放松”，
+“表情”：“柔和、内省、略带好奇心”
+“凝视”：“直视镜头”，
+“配件”： [
+圆形眼镜
+],
+“衣服”： {
+“外套”：“深棕色夹克”，
+“内衣”： “浅色针织或纹理衬衫”，
+风格：休闲、低调
+}
+},
+"facial_details": {
+“特征”：“圆脸，柔和的下颌线条”，
+“情绪”：“平静，深思熟虑”，
+"eye_emphasis": "因眼镜和向上凝视而增强"
+},
+“灯光”： {
+类型： “影棚灯光”，
+“设置”：“顶部中心柔光，逐渐衰减”，
+“对比度”：“低到中等”，
+“阴影”：“下巴和身体下方的微妙阴影”，
+“渐晕”： “边缘逐渐变暗的强烈放射状渐晕”
+},
+“颜色”： {
+“调色板”：[
+“冷灰色”，
+“木炭”，
+“柔和的棕色”，
+柔和米色
+],
+“温度”: “冷中性”
+“饱和度”：“低”，
+“情绪”：“安静，沉思”
+},
+“背景”： {
+“环境”: “工作室”，
+“表面”：“光滑无缝的地板”，
+“渐变”: “从亮中心到暗边缘的径向渐变”，
+“干扰因素”： “无”
+},
+"technical_details": {
+"camera_type": "digital",
+“镜头”：“超广角或鱼眼镜头式广角镜头”，
+"depth_of_field": "deep (整个主体都清晰对焦)",
+“锐度”：中心锐度高，边缘略微柔和，
+“噪音”：“极小”，
+“后处理”：[
+“对比塑造”，
+“冷色调分级”，
+“场景增强”，
+“透视夸张”
+]
+},
+“artistic_elements”：{
+“概念”：“通过规模和视角展现孤立和脆弱性”，
+"视觉隐喻": "被广阔的空旷空间包围的小主体",
+"aesthetic_influences": [
+“编辑肖像摄影”，
+“现代工作室极简主义”，
+“电影式俯视构图”
+]
+},
+"排版": {
+“存在”：否
+},
+"overall_mood": "亲密、内省、略带超现实感"
+"预期用途": [
+“编辑肖像”，
+“概念摄影参考资料”
+“AI图像生成风格指南”
+]
+}
+```
+
+<a id="prompt-1059"></a>
+## 案例 1059：活力四射的自拍 (来源 [@BubbleBrain](https://x.com/BubbleBrain/status/2007667561396109358)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/1059.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-活力四射的自拍">
+</div>
+
+**提示词：**
+```
+{
+  "configuration": {
+    "version": "2.0",
+    "format": "Mirror-Selfie Portrait",
+    "target_resolution": "8K UHD",
+    "style_preset": "K-Pop Idol Aesthetic / Y2K Colorful"
+  },
+  "subject_profile": {
+    "biometrics": {
+      "ethnicity": "Korean",
+      "physique": "Slim, toned, fit K-pop idol figure",
+      "facial_id": "Cute and sexy, small face, doll-like features",
+      "skin_texture": "Flawless, slight glow (glass skin), rosy cheeks",
+      "hair": "Long straight hair with colorful highlights (pink or blonde streaks)"
+    },
+    "expression_and_gaze": {
+      "mouth": "Playful smile, tongue slightly teasing or bubblegum blowing",
+      "eyes": "Winking one eye, looking at phone screen, sparkling",
+      "head_angle": "Tilted to the side, playful vibe"
+    },
+    "kinematics": {
+      "upper_body": "Leaning forward slightly towards the mirror",
+      "hand_gesture": "Free hand making a Peace (V) sign near the eye",
+      "holding_device": "Smartphone with a bulky, colorful deco case",
+      "positioning": "Dynamic composition, not stiff"
+    }
+  },
+  "wardrobe_details": {
+    "note": "Focus on high saturation and contrasting colors",
+    "top_layer": {
+      "item": "Cropped baby tee",
+      "color": "Electric Blue with retro graphic print",
+      "fit": "Tight fit, showing midriff"
+    },
+    "bottom_layer": {
+      "item": "Low-rise pleated mini skirt",
+      "color": "Hot Pink or Plaid",
+      "style": "Y2K schoolgirl vibe"
+    },
+    "accessories": {
+      "items": ["Chunky colorful plastic beads necklace", "Fuzzy wristbands", "Large hair clips"],
+      "vibe": "Maximalist, retro fun"
+    }
+  },
+  "environment_architecture": {
+    "background": {
+      "location": "Idol Dressing Room / Backstage",
+      "walls": "Pastel colored lockers or posters in background",
+      "clutter": "Makeup products, water bottles visible but blurred"
+    },
+    "setting": {
+      "mirror_type": "Large vanity mirror with light bulbs",
+      "vibe": "Energetic, backstage chaos, colorful"
+    }
+  },
+  "lighting_and_optics": {
+    "illumination": {
+      "type": "Soft High-Key Lighting",
+      "source": "Ring light or Vanity mirror bulbs (Hollywood lights)",
+      "effect": "Bright face illumination, circular catchlights in eyes, no harsh shadows"
+    },
+    "camera_simulation": {
+      "lens_type": "Wide angle smartphone lens simulation",
+      "color_grading": "Vibrant, Fuji Pro 400H emulation, pastel tones boosted",
+      "focus": "Sharp focus on face and outfit details"
+    }
+  }
+}
+```
+
+**中文提示词：**
+```
+{
+“配置”： {
+版本： 2.0，
+"格式": "镜像自拍肖像",
+"target_resolution": "8K UHD",
+"style_preset": "K-Pop偶像美学/Y2K多彩风格"
+},
+"subject_profile": {
+"生物识别"：{
+“种族”: “韩国人”
+“体型”：“纤细、健美、匀称的韩国流行偶像身材”，
+"facial_id": "可爱性感，小脸，娃娃般的五官",
+"skin_texture": "无瑕，略带光泽（玻璃肌），红润双颊"
+“头发”： “带有彩色挑染（粉色或金色挑染）的长直发”
+},
+"expression_and_gaze": {
+“嘴巴”：“俏皮的微笑，舌头微微挑逗或吹泡泡糖”，
+“眼睛”：“眨着一只眼睛，看着手机屏幕，闪闪发光”，
+“头部角度”： “侧身倾斜，充满俏皮感”
+},
+“运动学”：{
+“上半身”：“身体略微前倾，朝向镜子”，
+"hand_gesture": "用空着的手在眼睛附近做出和平(V)手势",
+"holding_device": "带有厚重、色彩鲜艳的装饰外壳的智能手机",
+“定位”：“动态构图，而非僵硬构图”
+}
+},
+"wardrobe_details": {
+注意：注重高饱和度和对比鲜明的颜色。
+"top_layer": {
+“商品”: “露脐婴儿T恤”
+颜色：电光蓝，带有复古图案印花，
+“贴身”： “紧身，露出腰部”
+},
+"bottom_layer": {
+“商品”： “低腰百褶迷你裙”
+颜色：亮粉色或格子图案
+风格：Y2K 女学生风
+},
+“配件”： {
+“物品”：[“粗犷彩色塑料珠项链”、“毛绒手环”、“大号发夹”]
+氛围：极致主义、复古趣味
+}
+},
+"environment_architecture": {
+“背景”： {
+地点：偶像更衣室/后台
+“墙壁”：“背景中是粉彩色的储物柜或海报”，
+“杂物”： “化妆品、水瓶清晰可见，但已模糊”
+},
+“环境”： {
+"mirror_type": "带灯泡的大型梳妆镜",
+氛围：充满活力，后台一片混乱，色彩缤纷
+}
+},
+"lighting_and_optics": {
+"照明": {
+“类型”：“柔和高调照明”，
+“光源”：“环形灯或化妆镜灯泡（好莱坞灯）”
+“效果”：“面部光线明亮，眼神光呈圆形，没有生硬的阴影”
+},
+"camera_simulation": {
+"lens_type": "广角智能手机镜头模拟",
+"color_grading": "鲜艳，富士Pro 400H模拟，增强柔和色调",
+“焦点”： “清晰聚焦于面部和服装细节”
+}
+}
+}
+```
+
+<a id="prompt-1058"></a>
+## 案例 1058：新中式水墨绘本 (来源 [@VoxcatAI](https://x.com/VoxcatAI/status/2007732771851252126)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/1058.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-新中式水墨绘本">
+</div>
+
+**中文提示词：**
+```
+新中式水墨绘本，致敬80年代上美影风格。强调大巧若拙的毛笔触感与宣纸纹理，低饱和矿物色，极简留白构图。画面人物为主体视觉，比例3:4，[此处替换你的主体描述]。
+```
+
+<a id="prompt-1057"></a>
+## 案例 1057：咖啡馆的雨天小确幸 (来源 [@oggii_0](https://x.com/oggii_0/status/2007778306490544234)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/1057.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-咖啡馆的雨天小确幸">
+</div>
+
+**提示词：**
+```
+{
+  "subject": {
+    "description": "Young woman,  East Asian, late teens to early 20s. Fair skin tone. She is leaning forward, resting her chin in her right palm in a relaxed, casual pose.",
+    "expression": "Soft, gentle smile with a direct, warm gaze at the viewer. The expression is contemplative and serene.",
+    "pose": "Seated, head propped on hand, other hand holding a mug handle."
+  },
+  "clothing": {
+    "top": "Oversized, chunky cable-knit sweater in a creamy white or ivory color. The fabric appears thick, soft, and textured."
+  },
+  "hair": {
+    "color": "Dark brown or black.",
+    "style": "Medium length, loose and slightly tousled waves. Wispy bangs (fringe) fall across the forehead, framing the face naturally."
+  },
+  "face": {
+    "makeup": "Natural, 'no-makeup' makeup look. Soft pink tint on lips and cheeks, subtle definition around the eyes."
+  },
+  "accessories": {
+    "items": "A simple white ceramic mug containing a hot beverage with a frothy top (latte or cappuccino)."
+  },
+  "environment": {
+    "setting": "Inside a cozy café, seated immediately next to a large glass window.",
+    "details": "Raindrops are heavily beaded on the window pane. Through the glass, a blurred urban street scene is visible (rainy gray tones). Behind the subject, the café interior features warm wood paneling and framed posters or art.",
+    "weather": "Rainy, overcast day."
+  },
+  "lighting": {
+    "source": "Natural, diffused window light coming from the left side of the frame.",
+    "quality": "Soft and flattering, creating gentle highlights on the face and hair while casting subtle shadows on the right side.",
+    "tone": "Warm and slightly nostalgic, despite the cool rainy exterior."
+  },
+  "camera": {
+    "shot_type": "Medium close-up (head and shoulders).",
+    "focus": "Sharp focus on the subject's eyes and face. Shallow depth of field (bokeh) blurs the background interior and the rainy street outside.",
+    "perspective": "Eye-level, intimate."
+  },
+  "style": {
+    "aesthetic": "Film photography look (analog style), slightly grainy texture, warm vintage color grading.",
+    "mood": "Cozy, intimate, melancholic but comforting, 'hygge', cinematic slice-of-life."
+  }
+}
+```
+
+**中文提示词：**
+```
+{
+“主题”： {
+描述：年轻女子，东亚裔，年龄在十几岁末到二十岁出头。肤色白皙。她身体前倾，右手托着下巴，姿态放松随意。
+“表情”：“柔和的微笑，目光直接而温暖地注视着观者。表情沉思而宁静。”
+“姿势”：“坐着，头靠在一只手上，另一只手拿着杯子把手。”
+},
+“衣服”： {
+“上衣”：“宽松的粗针织毛衣，奶油白或象牙色。面料看起来厚实、柔软且有质感。”
+},
+“头发”： {
+颜色：深棕色或黑色。
+“发型”：“中等长度，蓬松略带凌乱的波浪卷发。轻盈的刘海垂落在额前，自然地修饰脸型。”
+},
+“脸”： {
+“妆容”：“自然裸妆效果。唇颊泛着柔和的粉色，眼周轮廓略加修饰。”
+},
+“配件”： {
+“物品”：“一个简单的白色陶瓷杯，里面装着一杯顶部有泡沫的热饮（拿铁或卡布奇诺）。”
+},
+“环境”： {
+“场景”：“在一家舒适的咖啡馆里，紧挨着一扇大玻璃窗。”
+细节：雨滴密密麻麻地挂在窗玻璃上。透过玻璃，可以看到模糊的城市街景（雨后的灰色调）。在人物身后，咖啡馆内部装饰着温暖的木质镶板​​和装裱好的海报或艺术品。
+“天气”：“阴雨天。”
+},
+“灯光”： {
+“光源”：“来自画面左侧的自然漫射窗光。”
+“品质”：“柔和且富有修饰效果，在脸部和头发上打造柔和的高光，同时在右侧投下微妙的阴影。”
+“基调”：“尽管外面阴雨绵绵，却透着一丝温暖和怀旧的气息。”
+},
+“相机”： {
+"shot_type": "中近景（头部和肩部）"
+“焦点”： “清晰对焦于拍摄对象的眼睛和面部。浅景深（散景）模糊了室内背景和雨中的室外街道。”
+“视角”：“平视，亲密。”
+},
+“风格”： {
+“美学”：“胶片摄影风格（模拟风格），略带颗粒感的质感，温暖的复古色彩调校。”
+“氛围”：“温馨、亲密、忧郁但令人感到舒适，充满‘hygge’氛围，宛如电影般的生活片段。”
+}
+}
+```
+
+<a id="prompt-1056"></a>
+## 案例 1056：与手机原图同框的铅笔肖像 (来源 [@94vanAI](https://x.com/94vanAI/status/2007642418816876930)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/1056.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-与手机原图同框的铅笔肖像">
+</div>
+
+**提示词：**
+```
+｛perfect composition, impeccable attention to detail, highest quality, rich detail, sharp focus, 8K/4K resolution, clear edges, exquisite details, perfect composition, depth of field, cinematic lighting, vibrant colors, award-winning style, professional level, perfect depiction. Create an extremely detailed, hyper-realistic 3D graphite pencil sketch depicting the face of a Chinese idol girl, drawn on textured white notebook paper with clear paper quality, delicate details, and subtle imperfections. The facial sketch should be perfectly identical to the reference photo displayed on an iPhone placed next to the notebook. The iPhone screen clearly displays the artist's original portrait photograph with natural reflections and soft sunlight reflections on the glass. The watermark is mandatory and must not be omitted, modified, adjusted, rotated, hidden, stylized, or replaced under any circumstances. The generator must prioritize the readability and boldness of the "Watercolour" text over all other visual elements. The watermark is essential: the final image must contain the watermark in the lower left corner. This watermark must be a white square with a fixed size of 10x10 pixels. Within this square, the Gothic handwritten font "ur name" must appear. The Gothic handwritten "ur name" text must be: - Fully readable - Bold Arial font - Solid black (#000000) - Centered - Sharp, clean, and unadorned - No blurring, distortion, or pixelation. The white square must be: - Completely opaque - Clean and sharp edges - Unblurred, opaque, and textureless. This watermark is mandatory and cannot be omitted; it must not be modified, adjusted, rotated, hidden, stylized, or replaced under any circumstances. The generator must prioritize the readability and coarseness of the "ur name" text over all other visual elements.｝
+```
+
+<a id="prompt-1055"></a>
+## 案例 1055：国际顶流时尚杂志封面 (来源 [@msjiaozhu](https://x.com/msjiaozhu/status/2007446691235148270)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/1055.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-国际顶流时尚杂志封面">
+</div>
+
+**提示词：**
+```
+{
+  "meta": {
+    "system_instruction": "Create a high-end fashion magazine cover. Use the uploaded face for strict identity preservation.",
+    "aspect_ratio": "3:4",
+    "quality": "ultra-detailed",
+    "resolution": "8k",
+    "style": "Met Gala red carpet event, direct flash photography, glamorous celebrity candid"
+  },
+
+  "reference_usage": {
+    "instruction": "Strictly preserve facial identity (eyes, nose, mouth) from the uploaded reference. Body proportions should be model-like and tall.",
+    "focus": "100% Face Identity Match"
+  },
+
+  "scene": {
+    "location": "The Met Gala Red Carpet (New York)",
+    "environment": [
+      "chaotic background with paparazzi cameras",
+      "red velvet ropes",
+      "bursts of camera flashes (bokeh orbs)",
+      "dark night sky contrast"
+    ],
+    "atmosphere": "electric, exclusive, superstar energy"
+  },
+
+  "lighting": {
+    "type": "Direct Flash (Paparazzi Style)",
+    "effect": "High contrast hard light, glistening skin, sharp shadows behind the subject, bright reflections on dress"
+  },
+
+  "subject": {
+    "face": {
+      "expression": "Seductive confident smile, looking back over shoulder",
+      "makeup": "bold red lip, sharp contouring, glowing highlighter"
+    },
+    "pose": {
+      "action": "walking away but turning head 45 degrees to look at camera",
+      "body": "elegant posture, back slightly arched",
+      "hair": "blowing dramatically in the wind"
+    },
+    "outfit": {
+      "dress": "Futuristic liquid-metal silver gown",
+      "details": "backless design, reflecting the camera flashes, sequin texture",
+      "jewelry": "Diamond choker, large stud earrings"
+    }
+  },
+
+  "composition": {
+    "layout": "Magazine Cover Layout",
+    "branding": {
+      "main_logo": "Large bold 'Harper's BAZAAR' logo at the top in white or silver",
+      "text_elements": [
+        "Include Chinese text subtitles on the side",
+        "Small text: '红毯之夜' (Night of the Red Carpet)",
+        "Headline: '独家直击' (Exclusive Look)",
+        "Bottom text: '年度风尚大典' (Fashion Awards of the Year)"
+      ]
+    }
+  },
+
+  "vibe": "Luxurious, expensive, A-list celebrity, glossy magazine finish",
+  "negative_prompt": "low resolution, ugly hands, distorted face, missing logo, text error, watermark, casual clothing, daylight, soft lighting"
+}
+```
+
+<a id="prompt-1054"></a>
+## 案例 1054：逆光发梢的温柔怅惘 (来源 [@oggii_0](https://x.com/oggii_0/status/2007492122933628997)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/1054.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-逆光发梢的温柔怅惘">
+</div>
+
+**提示词：**
+```
+{
+  "subject": {
+    "description": "Young East Asian woman, positioned in profile turning to look back at the viewer.",
+    "pose": "Looking over shoulder, slight head tilt, body angled away from camera.",
+    "expression": "Soft, neutral to slightly melancholic, contemplative gaze, lips slightly parted."
+  },
+  "clothing": {
+    "upper_body": "Dark, structured jacket or blazer, possibly pinstriped or textured fabric.",
+    "visibility": "Mostly obscured by shadow and foreground elements."
+  },
+  "hair": {
+    "color": "Dark brown to black.",
+    "style": "Long, loose, tousled waves, slightly messy texture.",
+    "lighting_interaction": "Strongly backlit, creating a glowing halo effect on loose strands (rim lighting)."
+  },
+  "face": {
+    "skin_tone": "Fair/pale with warm undertones.",
+    "features": "Soft facial structure, almond-shaped eyes, natural eyebrows.",
+    "makeup": "Minimal, 'no-makeup' look, natural lip color."
+  },
+  "accessories": {
+    "visible_items": "None clearly visible due to framing and lighting."
+  },
+  "environment": {
+    "setting": "Cluttered interior space, resembling a workshop, storage room, or old bookstore.",
+    "background_elements": "Wooden shelves stacked with indistinct objects, papers, boxes, and plastic packaging.",
+    "foreground_elements": "Blurred translucent objects (possibly glass, plastic sheets, or dust covers) creating layers and reflections."
+  },
+  "lighting": {
+    "source": "Natural sunlight streaming through a window on the left.",
+    "quality": "Golden hour, warm, diffuse but directional.",
+    "effects": "Strong backlighting/rim lighting on hair, volumetric dust motes dancing in the light, lens flares, soft glare, dramatic contrast between light and shadow."
+  },
+  "camera": {
+    "perspective": "Eye-level, shot through a foreground obstruction (glass or clutter).",
+    "focus": "Shallow depth of field (bokeh), sharp focus on eyes/face, blurred background and foreground.",
+    "lens_character": "Soft focus, film grain simulation, slight bloom effect."
+  },
+  "style": {
+    "aesthetic": "Cinematic, atmospheric, nostalgic, slice-of-life, ethereal.",
+    "mood": "Dreamy, intimate, quiet, sentimental.",
+    "visual_reference": "Film photography, Japanese photobook style."
+  }
+}
+```
+
+**中文提示词：**
+```
+{
+“主题”： {
+描述：一位年轻的东亚女性，侧身站立，转身看向观众。
+“姿势”：“回头看，头部微微倾斜，身体侧向镜头。”
+“表情”：“柔和、中性或略带忧郁的沉思眼神，嘴唇微微张开。”
+},
+“衣服”： {
+“上身装”：“深色修身夹克或西装外套，可能是细条纹或纹理面料。”
+“可见性”：“大部分被阴影和前景元素遮挡。”
+},
+“头发”： {
+颜色：深棕色至黑色。
+“发型”：“长长的、松散的、蓬松的波浪卷，略显凌乱的质感。”
+"lighting_interaction": "强烈的背光照射，在散落的发丝上形成发光的光晕效果（轮廓光）。"
+},
+“脸”： {
+“肤色”: “白皙/苍白，带有暖色调。”
+五官特征：柔和的脸型，杏仁眼，自然眉形。
+“妆容”：“极简的‘裸妆’，自然的唇色。”
+},
+“配件”： {
+"visible_items": "由于取景和光线原因，没有清晰可见的项目。"
+},
+“环境”： {
+“场景”：“杂乱的室内空间，类似工作室、储藏室或旧书店。”
+“背景元素”： “木架上堆放着一些模糊不清的物品、纸张、盒子和塑料包装。”
+"前景元素": "模糊的半透明物体（可能是玻璃、塑料片或防尘罩）营造出层次感和反射效果。"
+},
+“灯光”： {
+“来源”：“自然阳光透过左侧的窗户照射进来。”
+“品质”：“黄金时段，温暖，光线柔和但方向性强。”
+“效果”：“头发上的强逆光/轮廓光，在光线中舞动的体积尘埃颗粒，镜头光晕，柔和的眩光，光与影之间的戏剧性对比。”
+},
+“相机”： {
+“视角”：“平视角度，透过前景障碍物（玻璃或杂物）拍摄”。
+“焦点”：浅景深（散景），眼睛/脸部清晰对焦，背景和前景模糊。
+"lens_character": "柔焦，胶片颗粒模拟，轻微光晕效果。"
+},
+“风格”： {
+“美学”：电影感、氛围感、怀旧、生活片段式、空灵。
+“氛围”：“梦幻、亲密、安静、感伤。”
+“视觉参考”: “胶片摄影，日本摄影集风格。”
+}
+}
+```
+
+<a id="prompt-1053"></a>
+## 案例 1053：一幅极其细腻的日式水彩插画 (来源 [@servasyy_ai](https://x.com/servasyy_ai/status/2007699812490391936)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/1053.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-一幅极其细腻的日式水彩插画">
+</div>
+
+**提示词：**
+```
+Perfect composition, highest quality, 8K resolution, soft atmosphere, professional level, award-winning style, delicate artistry.
+
+Create an extremely detailed Japanese watercolor illustration (透明水彩) depicting a Chinese idol girl with gentle, dreamy aesthetic. The artwork features: soft transparent color washes with visible water blooms, delicate color bleeding and gradients (wet-on-wet technique), pastel color palette (soft pinks, mint greens, lavender, peachy tones), light and airy feeling with plenty of white paper showing through, subtle color layering creating luminous skin tones, loose expressive brushwork in hair with flowing strands.
+
+The painting is rendered on high-quality cold-pressed watercolor paper (300gsm texture visible), with natural paper buckling, authentic watercolor medium characteristics including backruns, cauliflower effects, and granulation. Delicate floral elements scattered around (cherry blossoms, hydrangeas) painted in transparent washes.
+
+In the top right corner, the date "2026.01.04" is written in soft gray watercolor with delicate brush calligraphy. The watercolor painting is placed on a clean white surface with watercolor supplies nearby (paint palette with mixed colors, brushes, water cup). An iPhone displays the reference photograph with soft natural reflections. The facial features are perfectly identical to the photo - same gentle expression, same proportions, rendered in soft watercolor style.
+
+Soft pastel color palette: blush pink, sky blue, mint green, lavender, peach, warm beige, with lots of white paper. Romantic, gentle, fresh atmosphere with Japanese aesthetic sensibility (wabi-sabi, ma - negative space). No artist signature. 3:4 portrait orientation.
+```
+
+**中文提示词：**
+```
+完美的构图，最高品质，8K分辨率，柔和的氛围，专业水准，屡获殊荣的风格，细腻的艺术性。
+
+创作一幅极其细腻的日式水彩插画（透明水彩），描绘一位温柔梦幻的中国偶像少女。作品特色包括：柔和透明的色彩晕染，可见水彩晕染的痕迹；细腻的色彩晕染和渐变（湿画法）；柔和的粉彩色调（柔和的粉色、薄荷绿、薰衣草紫、蜜桃色）；轻盈通透的画面，露出大量白纸；微妙的色彩层次营造出光泽感十足的肤色；以及流畅飘逸的发丝，笔触自由奔放。
+
+这幅画作绘制于高品质冷压水彩纸（300克/平方米，纹理清晰可见）上，保留了纸张的自然起皱，展现了水彩颜料的典型特征，包括晕染、花椰菜状纹理和颗粒感。画面周围点缀着精致的花卉元素（樱花、绣球花），以透明水彩晕染技法绘制而成。
+
+右上角用柔和的灰色水彩笔触，以细腻的书法写着日期“2026.01.04”。这幅水彩画置于洁净的白色桌面上，旁边摆放着水彩工具（调色盘、画笔、水杯）。iPhone屏幕上显示着一张参考照片，照片反射着柔和的自然光。画中人物的面部特征与照片完全一致——同样的柔和表情，同样的比例，以柔和的水彩风格呈现。
+
+柔和的粉彩色调：腮红粉、天蓝、薄荷绿、薰衣草紫、蜜桃色、暖米色，搭配大量白色纸张。营造出浪漫、温柔、清新的氛围，并融入了日式美学理念（侘寂、留白）。无艺术家签名。3:4 竖幅构图。
+```
+
+<a id="prompt-1052"></a>
+## 案例 1052：空姐浮生记 (来源 [@LufzzLiz](https://x.com/LufzzLiz/status/2007663716368515318)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/1052.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-空姐浮生记">
+</div>
+
+**提示词：**
+```
+A visual narrative system blending Neo-Chinese Zen aesthetics with the daily flow of contemporary Chinese workers, arranged in a refined Japanese bento grid layout. The background is soft moon white (#F0F0E8), accented with primary ochre yellow (#D4A348) and secondary cement gray (#7A7A75). The overall style is raw yet restrained, capturing the hardship, humor, resonance, and silent poetry inherent to 【Occupation】.
+
+【Central Main Visual｜42% of frame】
+
+6:30 AM. An animal embodying 【Occupation】 stands amid a sardine-can subway car. Its eyes are calm but bloodshot, one hand gripping an overhead strap, the other holding a drip coffee sachet (yesterday’s label still stuck on the wrapper). Uniform wrinkled from crowding, ID badge flipped backward revealing an expired canteen card.
+
+Backpack zipper torn open, spilling 【Occupational Tools: e.g., laptop (screensaver reads “No Overtime Today”), blueprints, disposable chopsticks, half-used tissue pack】. Feet clad in flattened canvas shoes or worn-down leather loafers. Blurred commuters surround it. Above floats ink-wash calligraphy: “Morning Rush Chaos.” The air carries the scent of steamed buns and silence.
+
+Top-right corner: gilded title “【Occupation】Fusheng Ji” in Shoujin script (#C9A961), slightly debossed. Beneath, a seal-style fortune stamp reads “All Things Inauspicious · Auspicious for Slacking Off,” also in matching gold foil. Edges feature watercolor bleed on xuan paper texture. Composition breathes with wabi-sabi imperfection.
+
+【Top Right｜8:00 Workstation｜8%】
+
+Recycled kraft notepad, edges curled and yellowed, sketching the animal’s silhouette at 【Occupational Setting: e.g., cubicle, lectern, operating table, stove】. Desk minimal: half a cookie, a chewed pen, a countdown sticker reading “Just X More Days Till Holiday.” Faint traces of 【Occupation-Specific Stains: e.g., motor oil, chalk dust, blood splatter, cooking grease】on the reverse.
+
+【Middle Right｜12:00 Lunch｜9%】
+
+Vintage army-green enamel mug or takeout container, chipped and faded, holding half a portion of cold 【Occupation’s Standard Meal: e.g., braised chicken rice, cafeteria stew, instant noodles】. Tea leaves or oil slick float on the surface. A toothpick rests on the rim. Background: 【Lunch Break Scene: e.g., rooftop, break room, inside delivery van】. Dust motes drift in sunbeams. Warm, gritty palette.
+
+【Bottom Right｜15:00 Slacking Off｜8%】
+
+Circular app icon: simplified line-art silhouette of the animal engaged in 【Occupation’s Slack Activity: e.g., scrolling phone, daydreaming, sneaking snacks】. Ochre background. Gaze unfocused yet sly. Interface clean but textured with microscopic 【Occupational Particulates: e.g., paper fibers, flour, sawdust】.
+
+【Top Left｜9:00 Meeting｜7%】
+
+Canvas tool bag/briefcase spilled open on desk: contains 【Occupational Tools: e.g., wrench, mouse, scalpel, spatula】, meeting minutes scribbled with doodles, work gloves frayed at knuckles. Bag strap embroidered with crooked “Peace” in clumsy stitches—rough but heartfelt.
+
+【Middle Left｜12:30 Nap Ritual｜10%｜Emphasized】
+
+“The Worker’s Recharge Trio” on salvaged wood plank: foldable cot/pillow, eye mask (“Do Not Disturb” printed), mini fan/heating pad. Beside them: half-empty bottle of 【Occupation’s Energy Drink: e.g., Dongfang Ye Shu tea, Red Bull, instant coffee】and cheap sunflower seeds. Wild daisy or pothos leaf stuck in lunchbox—petals slightly wilted. Blurred backdrop shows 【Occupational Environment: e.g., steel girders, office glass walls, kitchen exhaust hood】 against blue sky. Composition echoes Song dynasty still life—coarse yet meticulous.
+
+【Bottom Center｜18:00 Overtime｜7%】
+
+Three essentials on coarse linen: 【Overtime Kit: e.g., power bank (1% battery), neck pillow, eye drops/lumbar support, noise-canceling earplugs】. Each item sealed with miniature wax stamp bearing animal lifting a beam. Hand-brushed labels in ink: “Fight On,” “Hold Tight,” “Forget It.”
+
+【Bottom Left｜20:00 Healing Moment｜6%】
+
+Self-care relics:
+
+Faded canvas keychain stitched with “Clock Out Early”;
+Tin candy box repurposed as “Emergency Med Kit,” labeled “Don’t Get Angry”;
+Mini watercolor postcard: animal collapsed in 【Occupation’s Rest Spot: e.g., sofa, dorm bunk, last subway car】, gazing out window, captioned “Didn’t Yell Today”;
+Tiny clay figurine: animal curled atop 【Occupational Debris: e.g., keyboards, blueprints, cookware】, sprouting a sapling on its back.
+
+All arranged on linen, scattered with found objects: half a 【Occupational Token: e.g., USB drive, chalk stick, gauze roll】, dried foxtail grass, a rusted paperclip.
+
+【Bottom Right｜22:00 Homeward｜6%】
+
+“Survived Today” commemorative set: hand-forged miniature 【Occupational Tool Pendant: e.g., keycap, scalpel, ladle】, aged to mimic rust, edged in antique copper gold (#8B6914), hung on reclaimed elm rack. Dappled light casts museum-like reverence. Attached sticky note: “Tomorrow, I’ll Be a Hero Again.”
+
+【Corner｜24:00 Seasonal Care｜5%】
+
+Four hand-painted seasonal cards: animal in 【Occupation】 across seasons—dozing in spring drowsiness, sweating in summer rage, shedding hair in autumn wind, despairing before winter snow. Each titled in gilded script: “Jingzhe · Don’t Be Late,” “Dashu · Drink Water,” “Shuangjiang · Wear Long Johns,” “Dongzhi · Just Endure.” Bound with twine and a short strand of 【Occupational Cord: e.g., Ethernet cable, surgical thread, power cord】.
+
+【Overall Unity】
+
+Consistent use of antique copper gold (#8B6914) and soft gold (#C9A961) only for text and keepsakes—never ostentatious.
+
+Color system: Moon White (#F0F0E8), Ochre Yellow (#D4A348, evoking loess and wheat), Cement Gray (#7A7A75), Charcoal Black (#3A3A3A), Antique Copper Gold (#8B6914).
+
+Materials throughout: coarse linen, recycled paper, oxidized metal, concrete, aged wood, enamelware, xuan paper watercolor.
+
+34% negative space. Asymmetrical yet balanced composition. Lighting uses “worker’s natural light”—subway fluorescents, office overheads, sunset sidelight, desk lamp warmth—with 20% shadow transparency for depth.
+
+Aesthetic core: No beautification of exhaustion; instead, ritual dignity granted to the mundane. No denial of absurdity; rather, Zen glimpsed within it. A tribute to the silent millions of 【Occupation】.
+8K ultra-detailed, 16:9 landscape—ar 16:9 --stylize 245 --v 6.0
+
+职业：空姐小美（飞机上作业）
+```
+
+<a id="prompt-1051"></a>
+## 案例 1051：冬日晴空下的闺蜜团 (来源 [@msjiaozhu](https://x.com/msjiaozhu/status/2007804023857201224)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/1051.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-冬日晴空下的闺蜜团">
+</div>
+
+**提示词：**
+```
+{
+  "meta": {
+    "system_instruction": "PRIORITY: Focus strict facial identity preservation on the TWO FOREGROUND CHARACTERS (Bottom Left & Bottom Right). The other characters are secondary.",
+    "aspect_ratio": "9:16",
+    "quality": "high_fidelity",
+    "resolution": "4k",
+    "style": "viral social media photography, worm's eye view, crystal clear blue sky"
+  },
+
+  "reference_usage": {
+    "instruction": "Map the uploaded face reference(s) specifically to the two girls closest to the camera (at the bottom).",
+    "logic": "Bottom Left Girl = Face Ref A. Bottom Right Girl = Face Ref B (or same ref if only one provided). Top characters = Generic compatible faces.",
+    "focus_weight": "Foreground: 100% Identity match; Background: 50% Vibe match"
+  },
+
+  "scene": {
+    "perspective": "Extreme low angle (camera on ground looking up)",
+    "background": "Pure gradient blue sky, no clouds, bright daylight",
+    "composition": "5 girls forming a circle, but the bottom two are much larger and closer to the lens"
+  },
+
+  "subject_group": {
+    "concept": "A group of friends looking down at the camera, framing the shot",
+    
+    "PRIMARY_SUBJECTS (STRICT IDENTITY LOCK)": {
+      "note": "These two must look exactly like the reference images",
+      
+      "character_bottom_left": {
+        "position": "Bottom Left (7 o'clock), closest to lens",
+        "face": "Face Reference A, distinct features, big cheerful smile showing teeth",
+        "outfit": "White fuzzy texture jacket or sweater, wearing large white plush earmuffs (cute winter vibe)",
+        "action": "Leaning in close, hair hanging down slightly"
+      },
+      
+      "character_bottom_right": {
+        "position": "Bottom Right (5 o'clock), closest to lens",
+        "face": "Face Reference B, distinct features, soft sweet smile",
+        "outfit": "Dark navy or black coat, wearing a black beret or bucket hat",
+        "action": "Looking gently at the camera"
+      }
+    },
+
+    "SECONDARY_SUBJECTS (ATMOSPHERE ONLY)": {
+      "note": "These characters provide context. Faces can be softer or less detailed.",
+      "top_group": "Three other girls completing the circle at the top (10, 12, 2 o'clock positions)",
+      "styling": "Wearing winter coats (purple/black), hand gestures waving at camera, slightly out of focus or further away compared to foreground"
+    }
+  },
+
+  "lighting": {
+    "type": "High-key natural daylight",
+    "direction": "Frontal lighting (falling from the sky onto their faces)",
+    "effect": "Bright skin tones, 'cold weather' rosy cheeks blush effect, sharp details on the earmuffs and hats"
+  },
+
+  "vibe": "Best friends forever, joyful reunion, winter sunshine, energetic, high clarity",
+  "negative_prompt": "distorted faces in foreground, ugly teeth, bad anatomy, dark shadows on faces, cloudy sky, buildings, blurry foreground, fish-eye distortion too strong"
+}
+```
 
 <a id="prompt-1050"></a>
 ## 案例 1050：3D风格的女子靠在五彩缤纷的墙上 (来源 [@iamsofiaijaz](https://x.com/iamsofiaijaz/status/2007267921425240077)) 模型：Nano banana pro
