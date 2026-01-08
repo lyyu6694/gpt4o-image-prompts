@@ -33,6 +33,18 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 1115：粉调棚拍的傲娇定格照 ](#prompt-1115)
+*   [案例 1114：一幅超写实的竖幅拼贴画 ](#prompt-1114)
+*   [案例 1113：纯欲风私房照 ](#prompt-1113)
+*   [案例 1112：互联网沙雕风格插画 ](#prompt-1112)
+*   [案例 1111：中国古代官服品级图谱 ](#prompt-1111)
+*   [案例 1110：中国传统男子冠帽等级制度拆解信息图 ](#prompt-1110)
+*   [案例 1109：一张精美的技能树成长路径信息图 ](#prompt-1109)
+*   [案例 1108：3D动画风格肖像 ](#prompt-1108)
+*   [案例 1107：超写实的户外冬季时尚肖像 ](#prompt-1107)
+*   [案例 1106：超写实的户外冬季时尚肖像 ](#prompt-1106)
+*   [案例 1105：风掠青丝眸藏孤影写真照 ](#prompt-1105)
+*   [案例 1104：文物保护建筑师绘制的勘测图 ](#prompt-1104)
 *   [案例 1103：水泥台阶的慵懒格调 ](#prompt-1103)
 *   [案例 1102：高密度的中文 3D 信息图 ](#prompt-1102)
 *   [案例 1101：日系妆容极致美女9宫格提示词 ](#prompt-1101)
@@ -147,6 +159,353 @@
 ## [点击：查看201-300个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/300.md)
 ## [点击：查看101-200个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/200.md)
 ## [点击：查看100提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/100.md)
+
+<a id="prompt-1115"></a>
+## 案例 1115：粉调棚拍的傲娇定格照 (来源 [@MANISH1027512](https://x.com/MANISH1027512/status/2008857436069781592)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/1115.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-粉调棚拍的傲娇定格照">
+</div>
+
+**提示词：**
+```
+Photorealistic edit using the input person photo as strict identity reference: keep the same face, facial features, skin tone, hairstyle (color/bangs/length/volume), outfit and accessories unchanged (no face swap, no new person, no hair/outfit change). Only modify expression, subtle head angle/gaze, light body language, and background.
+Expression must be light tsundere: her boyfriend just complimented her / wants to film her; she acts annoyed like “stop it / don’t film me,” but it’s actually soft and sweet underneath. Facial actions: slightly averted gaze (side glance), a tiny eyebrow raise, lips gently pressed or a small pout, a barely-there restrained smirk (almost smiling but resisting), with a hint of shy pride; not real anger, not hostile, no big toothy grin.
+Body language: torso slightly turned away as if avoiding the camera, shoulders subtly rotated out; eyes glance back with a side-eye; one hand makes a gentle “stop / don’t film” block near the chest (light, half-hearted, not grabbing the phone).
+Clean soft studio realism, face in sharp focus. Replace background with a solid pink seamless studio backdrop (subtle gradient ok).
+Avoid identity changes, hair/outfit changes, exaggerated kawaii deformation, rage/aggressive vibe, text/watermarks/frames, extra fingers/deformed limbs.
+```
+
+**中文提示词：**
+```
+使用输入的人物照片作为严格的身份参考进行逼真编辑：保持相同的面部特征、肤色、发型（颜色/刘海/长度/蓬松度）、服装和配饰不变(no换脸，不添加新人物，不改变发型/服装）。仅修改表情、头部角度/眼神、轻微的肢体语言和背景。
+表情要带点轻傲娇：男友夸了她/想拍她；她表面上装作很恼火的样子，好像在说“别这样/别拍我”，但其实内心很温柔甜蜜。面部表情：眼神略微移开（侧目），眉毛轻轻挑起，嘴唇微微抿起或微微嘟嘴，嘴角带着一丝不易察觉的克制微笑（几乎要笑了却又忍住了），带着一丝羞涩的骄傲；不是真的生气，也不是敌意，更不会咧嘴大笑。
+肢体语言：躯干略微转向一边，仿佛在躲避镜头，肩膀微微向外旋转；眼睛斜睨着回头；一只手轻轻地在胸前做出“停止/不要拍摄”的手势（轻柔、漫不经心，没有抓住手机）。
+干净柔和的影棚写实风格，面部清晰对焦。将背景替换为纯粉色无缝影棚背景（可以有轻微的渐变）。
+避免身份改变、发型/服装改变、夸张的可爱变形、愤怒/攻击性氛围、文字/水印/边框、额外的手指/变形的四肢。
+```
+
+<a id="prompt-1114"></a>
+## 案例 1114：一幅超写实的竖幅拼贴画 (来源 [@hey_m_cherry](https://x.com/hey_m_cherry/status/2008485079308530042)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/1114.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-一幅超写实的竖幅拼贴画">
+</div>
+
+**提示词：**
+```
+Ultra-realistic vertical collage of an angelic girl in five portrait strips, side by side, each showing a different emotion and lighting. She has delicate features, luminous skin, and flowing hair, with ethereal expressions: serene, joyful, contemplative, mystical, and fading into radiant light. Soft, flowing garments in airy fabrics, minimal accessories. Studio setup with cinematic soft lighting, background fading seamlessly between warm gold, pearlescent white, and pastel blue. High-key, gentle rim lights, subtle glow creating an angelic atmosphere. No props; focus on facial expression, ethereal aura, and lighting transitions. Close-up framing, tight on face, hyper-detailed, cinematic clarity, soft film grain, gentle shadows. Serene, mystical, emotionally layered tone. Color palette: soft gold, pearlescent white, pastel blue, subtle iridescent highlights, delicate shadows. Poster-like composition, timeless, angelic mood, ultra-realistic, high-resolution.
+```
+
+**中文提示词：**
+```
+一幅超写实的竖幅拼贴画，由五张并排的肖像条组成，描绘了一位天使般的女孩，每张都展现出不同的情绪和光影。她五官精致，肌肤透亮，秀发飘逸，表情空灵缥缈：宁静、喜悦、沉思、神秘，最终隐没在光芒之中。她身着轻盈飘逸的服饰，配饰极简。摄影棚布景采用电影级柔光，背景在暖金色、珠光白和粉蓝色之间无缝过渡。高调柔和的轮廓光，营造出微妙的光晕，带来天使般的氛围。画面中没有任何道具；重点在于面部表情、空灵的气质和光影的过渡。特写镜头聚焦于面部，细节丰富，画面清晰度极高，呈现电影般的质感，并带有柔和的胶片颗粒和淡雅的阴影。整体色调宁静、神秘，情感层次丰富。色彩运用：柔和的金色、珠光白、粉蓝色，以及微妙的虹彩高光和细腻的阴影。构图如同海报般精美，营造出永恒的天使般氛围，画面超写实，分辨率极高。
+```
+
+<a id="prompt-1113"></a>
+## 案例 1113：纯欲风私房照 (来源 [@joshesye](https://x.com/joshesye/status/2008846441481998548)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/1113.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-纯欲风私房照">
+</div>
+
+**中文提示词：**
+```
+{
+  "visual_style": {
+    "color_palette": {
+      "dominant_colors": [
+        {
+          "name": "Screen Glow Blue / Violet",
+          "hex_approx": "#8A8ABD",
+          "description": "投射在面部的冷色光源（疑似手机或电脑屏幕光），营造出夜晚的清冷感和科技感。"
+        },
+        {
+          "name": "Deep Shadow Black",
+          "hex_approx": "#050505",
+          "description": "头发、衣物和背景暗部，奠定了低调（Low-key）的画面基础。"
+        },
+        {
+          "name": "Muted Grey",
+          "hex_approx": "#6E7278",
+          "description": "枕头的颜色，作为中性色平衡画面。"
+        },
+        {
+          "name": "Soft Skin Tone",
+          "hex_approx": "#EAC0B6",
+          "description": "被冷光照亮的肤色，呈现出一种苍白而通透的质感。"
+        }
+      ],
+      "tone": "Cold foreground, Dark background (冷调前景，暗调背景)",
+      "saturation": "Low (Desaturated / Muted colors) (低饱和度，色彩柔和)"
+    },
+    "lighting": {
+      "type": "Mixed Low-Light / Screen Light (混合弱光/屏幕光)",
+      "characteristics": [
+        "Cool light source from front (前方冷光源补光)",
+        "Soft fall-off (柔和的光线衰减)",
+        "Atmospheric darkness (环境暗调)"
+      ],
+      "shadows": "Deep, moody shadows surrounding the subject (主体周围环绕着深沉的情绪化阴影)"
+    },
+    "composition": {
+      "framing": "Close-up / Headshot (特写/大头照)",
+      "perspective": "Eye-level to slightly high angle (平视或略微俯视)",
+      "pose": "Lying prone on bed (俯卧在床上)",
+      "visual_focus": "Eyes and Lips (视觉焦点集中在眼睛和嘴唇)",
+      "depth_of_field": "Shallow (Background slightly blurred) (浅景深，背景微虚)"
+    },
+    "subject_styling": {
+      "outfit": "Sleepwear / Lingerie (睡衣/内衣风)",
+      "items": "Black lace camisole/slip dress (黑色蕾丝吊带)",
+      "hair_makeup": "Messy dark hair, 'woke up like this' look, glossy lips, flushed cheeks (凌乱黑发，'刚睡醒'感，水光唇，微红脸颊)",
+      "expression": "Sultry, intimate, gazing at camera, finger on lip (迷离、亲密、注视镜头、手指触唇)"
+    },
+    "environment": {
+      "setting": "Bedroom / Hotel Room (卧室/酒店房间)",
+      "props": "Grey patterned pillow (灰色图案枕头)",
+      "background": "Curtains, dark corner (窗帘，黑暗角落)"
+    },
+    "mood_atmosphere": {
+      "keywords": [
+        "Intimate",
+        "Late night",
+        "Sultry",
+        "Vulnerable",
+        "POV",
+        "Pure & Lusty (Chunyu)"
+      ],
+      "vibe_description": "典型的'纯欲'风格（Pure & Lusty），营造出一种深夜、私密、只有亲密关系视角（POV）才能看到的氛围。"
+    }
+  }
+}
+```
+
+<a id="prompt-1112"></a>
+## 案例 1112：互联网沙雕风格插画 (来源 [@VoxcatAI](https://x.com/VoxcatAI/status/2008795972764397597)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/1112.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-互联网沙雕风格插画">
+</div>
+
+**中文提示词：**
+```
+互联网沙雕风格插画，[主题/主角/动作]。极简主义的涂鸦线条，Q版人物，表情夸张且滑稽（死鱼眼、流口水、神情呆滞）。
+画面中包含[填物品]，要求这些[填物品]呈现出违和的写实摄影质感，与卡通人物形成混合媒介的拼贴艺术效果。色彩明快，带有幽默感和嘲讽意味。背景是[填场景]。
+```
+
+<a id="prompt-1111"></a>
+## 案例 1111：中国古代官服品级图谱 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/2008504651017318789)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/1111.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-中国古代官服品级图谱">
+</div>
+
+**中文提示词：**
+```
+创建一个"中国古代官服品级制度可视化拆解"的历史图谱风格信息图,16:9横向构图。采用古代典章图式美学,使用古籍插图风格绘制。画面展示清代九品官员的官服差异对比,从左到右按品级排列:一品到九品共9个官员立绘人物。每个人物上方用工笔画标注"补子纹样"(一品仙鹤、二品锦鸡、三品孔雀...九品鹌鹑,文官用飞禽、武官用走兽),用放大镜特写补子刺绣细节。人物下方标注"朝珠材质"(一品东珠、二品珊瑚、三品蓝宝石...等级递减)、"顶戴花翎"(红宝石/珊瑚/蓝宝石/水晶等,用颜色色块区分)、"蟒袍图案"(九龙/五爪/四爪,用图示说明龙爪数量差异)。画面上方是"品级识别速查表":用表格对比9个品级在补子、顶戴、朝珠、蟒袍、腰带等5个维度的差异,每格用小图标+文字标注。画面下方是"历史冷知识":标注"为何文官用飞禽武官用走兽"(文职需高飞、武职需勇猛)、"花翎的政治含义"(赏戴花翎是皇帝恩宠)、"服色禁令"(平民不得穿黄色明黄)。底部用时间轴展示"历代官服演变":汉唐宋元明清的官服风格变化缩略图。所有文字用中文:顶部用小篆字体"官服品级图谱:穿在身上的权力密码",底部标注"服饰制度是封建等级的可视化呈现"。配色使用官服传统色。整体呈现历史制度和服饰文化,适合历史教育和文化研究。
+```
+
+<a id="prompt-1110"></a>
+## 案例 1110：中国传统男子冠帽等级制度拆解信息图 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/2008712406231642179)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/1110.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-中国传统男子冠帽等级制度拆解信息图">
+</div>
+
+**中文提示词：**
+```
+创建一个"中国传统男子冠帽等级制度拆解"的礼制图谱风格信息图,16:9横向构图。采用古代礼仪图册美学,使用古朴的绢帛质感背景。画面展示从平民到皇帝的9种男子冠帽,从左到右按等级排列。平民:头巾/毡帽,用中文标注"布质简陋、无装饰、实用为主、不得用贵重材料"。秀才:方巾/儒巾,标注"布制方巾、青灰色、文人标志、科举入门"。举人进士:乌纱帽,标注"黑色纱质、双翅展开、官员身份、翅长度随品级"。官员:梁冠,标注"梁数代表品级(一品九梁、九品一梁)、玉饰区分、簪导固定"。宗室:翼善冠,标注"皇子王爷专用、金质装饰、珠宝镶嵌"。皇帝:通天冠/冕冠,标注"最高等级、纯金打造、前后旒珠(天子十二旒)、专用于祭祀大典"。每个冠帽用正面+侧面多角度展示,用放大镜特写关键装饰细节(玉饰、金饰、珠旒)。画面上方是"冠帽与社会等级对应表":用金字塔结构展示等级森严的冠帽制度,标注"违制者斩"。画面下方是"冠礼成人仪式":展示古代男子20岁行冠礼的过程(加冠三次、取字、宴请宾客),标注"冠礼标志着从少年到成人的转变"。底部是"古代男子发型演变":束发、发髻、辫子在不同朝代的变化,配冠帽的对应关系。所有文字用中文:顶部用篆书字体"冠帽等级图谱:戴在头上的身份证",底部标注"冠帽制度是礼制社会的缩影"。配色使用古代官服色系。整体呈现冠帽文化和等级制度,适合历史教育和传统文化研究。
+```
+
+<a id="prompt-1109"></a>
+## 案例 1109：一张精美的技能树成长路径信息图 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/2008351812961923222)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/1109.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-一张精美的技能树成长路径信息图">
+</div>
+
+**中文提示词：**
+```
+创建"技能树成长路径"游戏化信息图,采用垂直树状结构。背景是深色渐变(#1e293b到#0f172a),营造神秘感。底部是"基础技能"树根,向上分叉为3条主要路径,每条代表不同专业方向。路径上分布圆形节点代表技能点,已掌握的用发光效果+金色(#fbbf24),未掌握的用灰色+虚线边框。每个技能节点包含图标和名称,主要节点附带学习时长和难度星级。分叉点用宝箱图标标注里程碑奖励。顶部是"专家级"皇冠图标。左右两侧添加数据面板显示:总学习时长、完成百分比、推荐路径。整体采用游戏UI风格,霓虹发光效果,科技感和趣味性并存。字体使用游戏风格等宽字体。
+```
+
+<a id="prompt-1108"></a>
+## 案例 1108：3D动画风格肖像 (来源 [@iamsofiaijaz](https://x.com/iamsofiaijaz/status/2008145672860787122?referrer=grok.com)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/1108.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-3D动画风格肖像">
+</div>
+
+**提示词：**
+```
+A whimsical 3D animated style portrait of a cute young girl fairy with big green eyes and freckles, soft pastel skin, light brown curly hair tied up with a knitted headband, wearing a handmade crocheted top and a soft fabric skirt, with two tiny fluffy chipmunks sitting on her shoulders and one on her head, dreamy fantasy forest background with floating dust particles, warm soft lighting, shallow depth of field, cinematic bokeh, ultra-detailed, pixar-style, disney-style, highly polished 3D render, soft focus, gentle smile, magical atmosphere, 4k, high detail.
+```
+
+**中文提示词：**
+```
+这是一幅充满奇思妙想的3D动画风格肖像，描绘了一位可爱的年轻仙女，她有着碧绿的大眼睛和雀斑，柔和的粉彩色皮肤，浅棕色的卷发用针织发带束起，穿着手工钩织的上衣和柔软的布料裙子，两只毛茸茸的小花栗鼠坐在她的肩膀上，一只趴在她的头上。梦幻般的奇幻森林背景中漂浮着尘埃颗粒，温暖柔和的光线，浅景深，电影般的散景效果，超高细节，皮克斯风格，迪士尼风格，高度精细的3D渲染，柔焦，温柔的微笑，充满魔幻氛围，4K分辨率，高细节。
+```
+
+<a id="prompt-1107"></a>
+## 案例 1107：超写实的户外冬季时尚肖像 (来源 [@xmiiru_](https://x.com/xmiiru_/status/2008764714340237800)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/1107.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-超写实的户外冬季时尚肖像">
+</div>
+
+**提示词：**
+```
+{
+  "Ultra-realistic outdoor winter fashion portrait of a young woman crouching in fresh snow. She is wearing a fitted black long-sleeve mini dress paired with fur-lined snow boots. Her makeup is soft and natural. She has long, wavy blonde hair flowing naturally. One finger is gently touching her lips, giving a playful yet thoughtful expression. The background features snow-covered pine trees with a foggy winter atmosphere. Overcast natural lighting creates soft shadows. Shallow depth of field isolates the subject with a cinematic composition. High detail, sharp focus, Instagram aesthetic, 85mm lens look, soft contrast, and cold color tones dominate the scene.",
+  
+  "style": "ultra-realistic, cinematic, winter fashion",
+  "environment": "outdoor, snowy forest, foggy winter atmosphere",
+  "lighting": "overcast natural light, soft shadows",
+  "camera": {
+    "lens": "85mm",
+    "depth_of_field": "shallow",
+    "focus": "sharp"
+  },
+  "color_palette": "cold tones, soft contrast",
+  "quality": "high detail, ultra realistic, instagram aesthetic",
+  "aspect_ratio": "4:5"
+}
+```
+
+**中文提示词：**
+```
+{
+“这是一张超写实的户外冬季时尚肖像，一位年轻女子蹲在皑皑白雪中。她身着黑色修身长袖迷你连衣裙，搭配毛绒雪地靴。妆容柔和自然。她一头金色长卷发自然垂落。一根手指轻轻触碰着嘴唇，神情既俏皮又沉思。背景是白雪皑皑的松树，笼罩着一层薄雾，营造出冬日的朦胧氛围。阴天的自然光线投射出柔和的阴影。浅景深使主体突出，构图极具电影感。画面细节丰富，焦点清晰，呈现出类似Instagram的审美风格，85mm镜头特有的质感，柔和的对比度和冷色调是这幅作品的主旋律。”
+
+“风格”：“超写实、电影感十足的冬季时尚”，
+“环境”：“户外，白雪皑皑的森林，雾气弥漫的冬季氛围”，
+“光线”：“阴天自然光，柔和的阴影”，
+“相机”： {
+镜头：85mm，
+"景深": "浅",
+“焦点”: “清晰”
+},
+"color_palette": "冷色调，柔和对比",
+“品质”：“细节丰富，超逼真，符合 Instagram 美学标准”，
+"aspect_ratio": "4:5"
+}
+```
+
+<a id="prompt-1106"></a>
+## 案例 1106：超写实的户外冬季时尚肖像 (来源 [@Adam38363368936](https://x.com/Adam38363368936/status/2008804071235612934)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/1106.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-超写实的户外冬季时尚肖像">
+</div>
+
+**提示词：**
+```
+{
+  "Ultra-realistic outdoor winter fashion portrait of a young Asian woman crouching in fresh snow. She is wearing a fitted  short black dress paired with fur-lined snow boots. Her makeup is soft and natural. She has long, wavy black hair flowing naturally. One finger is gently touching her lips, giving a playful yet thoughtful expression. The background features snow-covered pine trees with a foggy winter atmosphere. Overcast natural lighting creates soft shadows. Shallow depth of field isolates the subject with a cinematic composition. High detail, sharp focus, Instagram aesthetic, 85mm lens look, soft contrast, and cold color tones dominate the scene.",
+  
+  "style": "ultra-realistic, cinematic, winter fashion",
+  "environment": "outdoor, snowy forest, foggy winter atmosphere",
+  "lighting": "overcast natural light, soft shadows",
+  "camera": {
+    "lens": "85mm",
+    "depth_of_field": "shallow",
+    "focus": "sharp"
+  },
+  "color_palette": "cold tones, soft contrast",
+  "quality": "high detail, ultra realistic, instagram aesthetic",
+  "aspect_ratio": "4:5"
+Use the face without any change.
+}
+```
+
+**中文提示词：**
+```
+{
+“这是一张超写实的户外冬季时尚肖像，描绘了一位年轻的亚洲女性蹲在皑皑白雪中。她身着黑色修身短裙，搭配毛绒雪地靴，妆容清新自然。一头乌黑的长卷发自然垂落。她用一根手指轻轻触碰嘴唇，神情既俏皮又沉思。背景是白雪皑皑的松树，笼罩着一层薄雾，营造出冬日的朦胧氛围。阴天的自然光线投射出柔和的阴影。浅景深使主体突出，构图极具电影感。画面细节丰富，焦点清晰，呈现出类似Instagram的审美风格，85mm镜头特有的质感，柔和的对比度和冷色调是这幅作品的主旋律。”
+
+“风格”：“超写实、电影感十足的冬季时尚”，
+“环境”：“户外，白雪皑皑的森林，雾气弥漫的冬季氛围”，
+“光线”：“阴天自然光，柔和的阴影”，
+“相机”： {
+镜头：85mm，
+"景深": "浅",
+“焦点”: “清晰”
+},
+"color_palette": "冷色调，柔和对比",
+“品质”：“高细节、超逼真、Instagram 美学”，
+"aspect_ratio": "4:5"
+使用面部，无需任何改变。
+}
+```
+
+<a id="prompt-1105"></a>
+## 案例 1105：风掠青丝眸藏孤影写真照 (来源 [@qisi_ai](https://x.com/qisi_ai/status/2008758834547093893)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/1105.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-风掠青丝眸藏孤影写真照">
+</div>
+
+**中文提示词：**
+```
+一、主体与动作
+1 人物：年轻女性，清冷气质，半身近景，身体侧向右侧，回眸直视镜头
+2 表情：眼神锐利克制，略带疏离与忧郁，嘴唇微抿
+3 头发：乌黑长发，蓬松凌乱，强风吹拂，发丝大幅飘起并掠过脸颊
+4 妆容：暖棕眼影与微红眼周，睫毛清晰，哑光红唇，肤质通透
+5 服饰：深色细肩带衣裙或上衣，肩颈与锁骨露出，外侧有深色薄纱或外搭下滑形成暗部包裹
+
+二、构图与镜头
+1 画幅：竖幅
+2 景别：胸口以上的半身近景，三分之二侧脸
+3 位置：人物偏画面中右，头顶留少量空间，左侧留出光源与雾化区域
+4 视角：平视或略微仰视，镜头距离较近但不夸张变形
+5 对焦：焦点落在眼睛与面部，背景强虚化，整体带轻微柔化与朦胧感
+
+三、光线与氛围
+1 主光：左后方强逆光，形成发丝与肩部的明亮轮廓光
+2 补光：正面极弱柔光，仅提亮面部细节，阴影保留
+3 光质：散射柔光，明显雾化光晕，带空气感与轻微眩光
+4 氛围：梦幻、神秘、安静、电影感、带一点冷感与孤独感
+
+四、色彩与质感
+1 色调：背景冷灰偏蓝，肤色偏暖，形成冷暖对比
+2 饱和度：整体低饱和
+3 明暗：对比偏高，暗部压低，高光柔亮不过曝
+4 质感：皮肤细腻自然，轻微颗粒与雾面感，边缘高光带光晕
+
+五、背景与环境元素
+1 背景：暗灰到黑的渐变空间，无明确场景信息
+2 光点：背景与发梢周围有零散点状光斑与闪烁颗粒，类似尘埃反光或微小光粒
+3 动态：风带动发丝飞舞，光点呈漂浮散落的层次感
+
+六、风格与后期
+1 风格：唯美写实，梦幻柔雾，电影海报质感
+2 后期：增强轮廓光与发丝高光，提升雾化与空气透光感，轻微褪色，暗角收束画面
+3 清晰度：眼部与唇部相对清晰，其余区域柔化过渡，整体通透但不锐利
+
+七、反向提示
+1 人物错误：不要脸部畸变，不要五官错位，不要双脸，不要多余肢体，不要手指异常，不要不自然的皮肤塑料感
+2 光影错误：不要正面硬光，不要强烈死白高光，不要背景过亮抢主体
+3 风格偏差：不要卡通化，不要漫画厚涂感，不要夸张霓虹色，不要过度锐化与过度磨皮
+```
+
+<a id="prompt-1104"></a>
+## 案例 1104：文物保护建筑师绘制的勘测图 (来源 [@AllaAisling](https://x.com/AllaAisling/status/2008559432016286198)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/1104.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-文物保护建筑师绘制的勘测图">
+</div>
+
+**提示词：**
+```
+A preservation architect's survey board for [BUILDING / STRUCTURE] — [STYLE / ARCHITECT / PERIOD]. Left section: site plan and context, showing the structure in its urban or landscape setting with orientation, shadows, and neighboring relationships mapped. Center section: the building dissected, a cutaway axonometric revealing structural system, material layers, hidden infrastructure, with callouts identifying original versus modified elements. Right section: the building as experienced, photographed from the canonical viewpoint in ideal light, with human figures for scale and life, the architecture inhabited. Visual style transitions from technical survey blue-line through neutral analytical greys to golden-hour warmth. Title block reading "[BUILDING NAME] — [ARCHITECT], [CITY], [YEAR], HERITAGE SURVEY".
+```
+
+**中文提示词：**
+```
+一份文物保护建筑师绘制的[建筑/结构]—[风格/建筑师/时期]勘测图。左侧部分：场地平面图及周边环境图，展示了建筑在城市或景观环境中的位置、朝向、阴影和邻近关系。中间部分：建筑剖析图，剖面轴测图展现了结构体系、材料层、隐藏的基础设施，并标注了原始元素和改建元素。右侧部分：建筑的实景图，以标准视角在理想光线下拍摄，并配有人物以体现比例和生活气息，展现了建筑的居住状态。视觉风格从技术勘测的蓝线过渡到中性分析的灰色，最终过渡到温暖的黄金色调。标题栏显示[建筑名称]—[建筑师]，[城市]，[年份]，遗产勘测。
+```
 
 <a id="prompt-1103"></a>
 ## 案例 1103：水泥台阶的慵懒格调 (来源 [@oggii_0](https://x.com/oggii_0/status/2008392317858976144)) 模型：Nano banana pro
