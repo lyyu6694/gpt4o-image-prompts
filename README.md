@@ -33,6 +33,36 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 1145：烬甲猎鹰者与燃翼神禽 ](#prompt-1145)
+*   [案例 1144：国粹戏曲定制手办-穆桂英挂帅 ](#prompt-1144)
+*   [案例 1143：劳资蜀到山 ](#prompt-1143)
+*   [案例 1142：高端极简护肤品摄影 ](#prompt-1142)
+*   [案例 1141：一张电影风格的影棚肖像照 ](#prompt-1141)
+*   [案例 1140：缆车与雪山少女 ](#prompt-1140)
+*   [案例 1139：磨砂玻璃后的黑白剪影 ](#prompt-1139)
+*   [案例 1138：充满活力的花海户外时尚写真 ](#prompt-1138)
+*   [案例 1137：一张高端产品照片 ](#prompt-1137)
+*   [案例 1136：镜头向下拍摄一位衣着考究的男士 ](#prompt-1136)
+*   [案例 1135：电影动作提示词 ](#prompt-1135)
+*   [案例 1134：柔粉抹胸与极简白墙的时尚定格 ](#prompt-1134)
+*   [案例 1133：超写实的电影级肖像照 ](#prompt-1133)
+*   [案例 1132：3x3网格照片拼贴 ](#prompt-1132)
+*   [案例 1131：写实与皮克斯风的温柔对视 ](#prompt-1131)
+*   [案例 1130：黄金时段建筑摄影 ](#prompt-1130)
+*   [案例 1129：超写实工作室家庭肖像 ](#prompt-1129)
+*   [案例 1128：晨间日常4宫格照片 ](#prompt-1128)
+*   [案例 1127：80年代末日本动画OVA截图 ](#prompt-1127)
+*   [案例 1126：3D轴测微缩模型可视化海报 ](#prompt-1126)
+*   [案例 1125：日本女子沐浴后 ](#prompt-1125)
+*   [案例 1124：超逼真3D等距视图 ](#prompt-1124)
+*   [案例 1123：月光水域的俏皮定格 ](#prompt-1123)
+*   [案例 1122：女大学生的可爱风卧室场景 ](#prompt-1122)
+*   [案例 1121：一张概念性的致敬海报 ](#prompt-1121)
+*   [案例 1120：老年人友好的操作指南信息图 ](#prompt-1120)
+*   [案例 1119：微距棚拍的羊毛毡针毡Q版公仔 ](#prompt-1119)
+*   [案例 1118：K-Pop视觉美学四宫格 ](#prompt-1118)
+*   [案例 1117：健身纯欲系照片 ](#prompt-1117)
+*   [案例 1116：婆婆赞赏评价照片 ](#prompt-1116)
 *   [案例 1115：粉调棚拍的傲娇定格照 ](#prompt-1115)
 *   [案例 1114：一幅超写实的竖幅拼贴画 ](#prompt-1114)
 *   [案例 1113：纯欲风私房照 ](#prompt-1113)
@@ -159,6 +189,1814 @@
 ## [点击：查看201-300个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/300.md)
 ## [点击：查看101-200个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/200.md)
 ## [点击：查看100提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/100.md)
+
+<a id="prompt-1145"></a>
+## 案例 1145：烬甲猎鹰者与燃翼神禽 (来源 [@iamsofiaijaz](https://x.com/iamsofiaijaz/status/2008896649901535342)) 模型：ChatGPT
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/1145.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-烬甲猎鹰者与燃翼神禽">
+</div>
+
+**提示词：**
+```
+A cinematic fantasy scene of a fierce female use image for face reference warrior falconer walking through a dark misty forest, wearing battle-worn leather armor infused with glowing ember textures. Her arm is raised, commanding a massive phoenix-eagle hybrid with blazing wings and flaming feathers, fire trailing from its tips. The bird radiates molten orange and red light, casting sparks and embers into the air.The warrior has braided hair, ash-streaked skin, and a determined expression, carrying a rope and utility pouch. Ultra-detailed feathers, realistic fire physics, dramatic lighting, volumetric fog, shallow depth of field, epic fantasy atmosphere, hyper-realistic, cinematic color grading, dark moody background, 8k, concept art, unreal engine quality.
+```
+
+**中文提示词：**
+```
+一幅充满奇幻色彩的电影场景：一位英姿飒爽的女战士兼猎鹰师，身着饱经战火洗礼、饰以闪耀余烬纹理的皮甲，漫步于幽暗迷雾笼罩的森林之中。她高举手臂，指挥着一头巨大的凤凰与雄鹰的混合体，这头猛禽双翼燃烧，羽毛燃焰，尖端喷吐着火焰。它周身散发着橙红色的熔岩光芒，火星和余烬飞溅。女战士梳着辫子，皮肤上沾满了灰烬，神情坚定，手中拿着绳索和工具袋。画面细节丰富，羽毛纹理逼真，火焰物理效果自然，光照效果极具戏剧性，运用了体积雾、浅景深等技术，营造出史诗般的奇幻氛围，色彩调校极具电影质感，背景阴郁深沉，分辨率高达8K，呈现出概念艺术的精髓，并采用了虚幻引擎的渲染效果。
+```
+
+<a id="prompt-1144"></a>
+## 案例 1144：国粹戏曲定制手办-穆桂英挂帅 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/2009075082996641935)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/1144.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-国粹戏曲定制手办-穆桂英挂帅">
+</div>
+
+**中文提示词：**
+```
+根据参考图人物特征，设计"京剧花旦·穆桂英"国粹戏曲系列定制手办。将人物Q版化保留其英气，穿着京剧花旦的戏服，头戴华丽的点翠凤冠，凤冠上插满各色翎子和珠花，脸上画着精致的京剧花旦妆容（柳叶眉、桃花腮红、点绛唇）。身穿改良的铠甲戏服，绣有龙凤图案，手持花枪，摆出经典的京剧亮相姿势。底座设计成戏台造型，台面有传统戏台的地毯纹样，侧面刻有"梨园雅韵"和"穆桂英挂帅"字样。配色采用京剧服饰的华丽色调：大红、明黄、翠绿、金线、宝石蓝。手办高度15cm，背景是虚化的古戏台和红色幕布，配有戏曲主题包装盒，盒面印有京剧脸谱纹样和"国粹传承"烫金字，产品摄影，戏曲韵味浓厚。
+```
+
+<a id="prompt-1143"></a>
+## 案例 1143：劳资蜀到山 (来源 [@MANISH1027512](https://x.com/MANISH1027512/status/2009222307190067456)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/1143.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-劳资蜀到山">
+</div>
+
+**提示词：**
+```
+Photorealistic edit using the input person photo as strict identity reference: keep the same face, facial features, face proportions, skin tone, hairstyle (color/bangs/length/volume), outfit and accessories unchanged (no face swap, no new person, no hair/outfit change). Only modify expression, pose/hand gesture, gaze, camera, lighting, and background.
+Narrative: a hot-tempered girlfriend (Chongqing spicy vibe). Her boyfriend won’t come when she calls him, so she points straight at the camera like she’s pointing at him and threatens with a strict countdown: “I’m counting to three—1, 2, 3!” (by 3 he must come over).
+Expression must be commanding impatience (not whining): brows lowered and furrowed, intense locked eye contact with a warning glare, tense jaw, mouth open mid-count/mid-shout with clear “1/2/3” enunciation shapes; strong attitude and pressure, but avoid grotesque distorted rage.
+Body language must be finger-point dominance: one arm thrust toward the lens with the index finger
+```
+
+**中文提示词：**
+```
+以提供的人物照片作为严格身份参照进行写实风格修图：保持面部、五官、脸型比例、肤色、发型（颜色 / 刘海 / 长度 / 蓬松度）、服装及配饰完全不变（禁止换脸、替换人物、更改发型或服饰）。仅调整表情、姿势 / 手势、视线、镜头、光线及背景。
+场景设定：性格火辣的女友（自带重庆妹子直爽泼辣气场）。她打电话叫男友过来，对方却迟迟不到，于是她直指着镜头（如同直指男友本人），用严肃的语气倒计时威胁：“我数三声 ——1、2、3！”（数到 3 他必须立刻出现）。
+表情要求：必须是强势不耐烦的神态（杜绝娇嗔抱怨感）：眉头紧锁下压，眼神紧盯镜头，目光锐利带有警告意味，下颌紧绷，嘴巴微张处于喊出倒计时数字的瞬间，唇形要清晰呈现喊 “1/2/3” 时的状态；整体气场要强、压迫感足，但避免出现狰狞扭曲的暴怒神态。
+肢体语言要求：必须是指人式的强势姿态：单臂向前直指镜头，食指伸直对准前方。
+```
+
+<a id="prompt-1142"></a>
+## 案例 1142：高端极简护肤品摄影 (来源 [@oggii_0](https://x.com/oggii_0/status/2009163133810823368)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/1142.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-高端极简护肤品摄影">
+</div>
+
+**提示词：**
+```
+Premium minimalist skincare product photography. A translucent pink liquid cleanser bottle with a white pump dispenser placed vertically at the center of the frame. The bottle rests inside an organic pool of soft pink foamy bubbles, with airy soap lather spreading outward in smooth, rounded shapes. Small transparent bubbles float around the foam surface. Clean matte pastel pink background with subtle gradient. Soft diffused top lighting with gentle rim light creates a luminous glow through the liquid, highlighting the pump tube inside the bottle. Sharp focus, high clarity, realistic liquid refraction, smooth plastic and glass textures, luxury beauty advertising style, modern cosmetic branding, ultra-realistic, 8K detail, high dynamic range.
+
+Negative Prompt:
+
+hands, people, faces, clutter, harsh reflections, label distortion, unreadable text, warped pump, hard shadows, grain, noise, low resolution, CGI look, cartoon style, messy foam, uneven lighting, watermark
+```
+
+**中文提示词：**
+```
+高端极简护肤品摄影。画面中央竖立着一瓶半透明的粉色液体洁面乳，配有白色按压泵头。瓶身浸润在柔和的粉色泡沫中，轻盈的泡沫向外扩散，形成光滑圆润的形状。细小的透明气泡漂浮在泡沫表面。干净的哑光粉色背景，带有微妙的渐变效果。柔和的漫射顶光和柔和的轮廓光透过液体，营造出明亮的光泽，并突出瓶内的按压泵头。画面清晰锐利，清晰度高，呈现逼真的液体折射效果，光滑的塑料和玻璃质感，展现出奢华美妆广告风格，符合​​现代化妆品品牌形象，超逼真，8K细节，高动态范围。
+
+否定提示：
+
+手、人、脸、杂物、刺眼的反光、标签变形、无法辨认的文字、扭曲的泵、生硬的阴影、颗粒感、噪点、低分辨率、电脑特效风格、卡通风格、凌乱的泡沫、光线不均、水印
+```
+
+<a id="prompt-1141"></a>
+## 案例 1141：一张电影风格的影棚肖像照 (来源 [@AIwithkhan](https://x.com/AIwithkhan/status/2009140907929649639)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/1141.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-一张电影风格的影棚肖像照">
+</div>
+
+**提示词：**
+```
+Cinematic studio portrait of a woman seated at a dark stone table wearing a mocha satin shirt. In front of her is a ceramic bust sculpture of her own face, smooth matte finish. Soft café-inspired lighting, intimate and artistic mood, shallow depth of field, editorial realism, cozy cinematic tones, 1:1 aspect ratio.
+```
+
+**中文提示词：**
+```
+一张电影风格的影棚肖像照，一位女士身着摩卡色缎面衬衫，坐在深色石桌旁。她面前摆放着一尊她本人的陶瓷半身像，表面光滑哑光。柔和的咖啡馆式灯光，营造出亲密而艺术的氛围，浅景深，写实主义风格，温馨的电影色调，1:1的宽高比。
+```
+
+<a id="prompt-1140"></a>
+## 案例 1140：缆车与雪山少女 (来源 [@key_alvesl](https://x.com/key_alvesl/status/2008973654592221237)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/1140.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-缆车与雪山少女">
+</div>
+
+**提示词：**
+```
+{
+  "meta": {
+    "project": "Ski_Gondola_Egirl_Flux_V4.2",
+    "target_engine": "Flux.1 [dev] / Nano Banana Pro",
+    "version": "4.2.0 (Everything in Focus - f/11)",
+    "created_at": "2025-12-18T15:35:00Z"
+  },
+  "engine_configuration": {
+    "model": {
+      "base": "flux1-dev.safetensors",
+      "quantization": "fp8 / nf4",
+      "vae": "ae.safetensors"
+    },
+    "lora_slots": [
+      {
+        "name": "Realism_LoRA_v2 (Optional)",
+        "strength": 0.5,
+        "note": "Enhances porcelain skin tone, nylon textures, and snow reflections."
+      }
+    ],
+    "sampling": {
+      "sampler_name": "euler",
+      "scheduler": "simple",
+      "steps": 28,
+      "guidance_scale": 2.5,
+      "shift": 1.0
+    },
+    "dimensions": {
+      "width": 1024,
+      "height": 1536,
+      "aspect_ratio": "2:3",
+      "megapixel_class": "1.5MP"
+    }
+  },
+  "prompt_construction": {
+    "narrative_layer": {
+      "style": "Winter Lifestyle / Travel Photography",
+      "instruction": "Capture a sharp, high-contrast shot inside a ski gondola, balancing the interior subject with the bright snowy mountain view outside.",
+      "subject_flow": "A pale young woman with black wolf-cut hair wearing a white puffer jacket sitting in a cable car, touching her hair."
+    },
+    "texture_layer": {
+      "skin_physics": "pale porcelain skin, glossy lips, dramatic e-girl eyeliner, smooth finish",
+      "fabric_physics": "shiny nylon texture of white puffer jacket, technical matte fabric of black ski pants, reflective lens of ski goggles",
+      "environment_physics": "SHARP DETAILS ON BACKGROUND: clear glass window, white snow texture on mountains, dark green pine trees, blue sky"
+    },
+    "camera_physics": {
+      "lens_imperfections": "high contrast, sharp daylight, slight reflection on glass",
+      "focus": "DEEP DEPTH OF FIELD (f/11) - NO BLUR. The woman, the gondola interior, and the distant snowy mountains are all sharp.",
+      "settings": "Sony A7R V, 35mm Lens, 1/1000s, ISO 100 (Bright Snow Daylight)"
+    },
+    "color_grading": {
+      "white_balance": "Cool Daylight (Blue Sky/White Snow dominance)",
+      "shadows": "Deep, defined shadows inside the cabin",
+      "highlights": "Bright, crisp highlights on snow and jacket"
+    }
+  },
+  "final_prompt_string": "A candid raw lifestyle photograph shot on Sony A7R V 35mm f/11. Deep depth of field, everything in focus. A young woman (19-25) with pale porcelain skin and shoulder-length black hair with bangs (wolf cut) sitting inside a ski gondola. She wears a shiny white cropped puffer jacket, black ski pants, and black ski goggles on her head. She touches her hair behind her ear and looks at the camera with a calm expression. Dramatic e-girl makeup with winged eyeliner and glossy lips. Bright winter sunlight illuminates her face. Background is sharp and detailed: Through the large glass window, a panoramic view of snowy Alpine mountains, ski tracks, pine trees, and a clear blue sky is clearly visible with no bokeh. High contrast. Winter travel aesthetic.",
+  "negative_prompt_string": "",
+  "note_on_negative": "Flux ignores explicit negative prompts. Sharpness is ensured by positive descriptors like 'f/11' and 'deep depth of field'.",
+  "post_processing": {
+    "upscale": {
+      "enabled": true,
+      "method": "Magnific_AI_Style (Creativity: 1)"
+    },
+    "face_restoration": {
+      "enabled": false,
+      "warning": "CRITICAL: DISABLE FACE RESTORATION."
+    }
+  }
+}
+```
+
+**中文提示词：**
+```
+{
+"meta": {
+“项目”:“Ski_Gondola_Egirl_Flux_V4.2”
+"target_engine": "Flux.1 [dev] / Nano Banana Pro",
+版本：4.2.0（一切尽在掌控 - f/11）
+"created_at": "2025-12-18T15:35:00Z"
+},
+"engine_configuration": {
+“模型”： {
+"base": "flux1-dev.safetensors",
+“量化”： “fp8 / nf4”，
+"vae": "ae.safetensors"
+},
+"lora_slots": [
+{
+"name": "Realism_LoRA_v2（可选）",
+“强度”：0.5，
+“注意”：“增强瓷白的肤色、尼龙的质感和雪的反射效果。”
+}
+],
+“采样”：{
+"sampler_name": "欧拉，
+"调度器": "简单",
+“步骤”：28，
+"guidance_scale": 2.5,
+"shift": 1.0
+},
+“方面”： {
+宽度：1024，
+“高度”：1536，
+"aspect_ratio": "2:3",
+"megapixel_class": "1.5MP"
+}
+},
+"prompt_construction": {
+"narrative_layer": {
+"风格": "冬季生活方式/旅行摄影",
+“拍摄说明”：“在滑雪缆车内拍摄一张清晰、高对比度的照片，使车内主体与车外明亮的雪山景色达到平衡。”
+“subject_flow”: “一位肤色苍白、留着黑色狼头短发的年轻女子，身穿白色羽绒服，坐在缆车里，抚摸着自己的头发。”
+},
+"texture_layer": {
+"skin_physics": "苍白的瓷肌，亮泽的嘴唇，夸张的电子女孩眼线，光滑的妆效"
+"fabric_physics": "白色羽绒服的亮面尼龙质感，黑色滑雪裤的哑光科技面料，滑雪镜的反光镜片",
+"environment_physics": "背景细节清晰：透明玻璃窗、山上的白色积雪纹理、深绿色的松树、蓝色的天空"
+},
+"camera_physics": {
+"lens_imperfections": "高对比度，锐利的日光，玻璃上有轻微反射"
+“对焦”：“景深大（f/11）——无模糊。女子、缆车内部以及远处的雪山都清晰锐利。”
+设置：索尼 A7R V，35mm 镜头，1/1000 秒，ISO 100（明亮的雪天）
+},
+"color_grading": {
+“white_balance”: “冷色调日光（蓝天/白雪为主）”
+“阴影”：“小屋内深邃而清晰的阴影”，
+“亮点”：“雪地和外套上的明亮、清晰的高光”
+}
+},
+"final_prompt_string": "一张使用索尼A7R V 35mm f/11镜头拍摄的真实生活照。景深大，画面清晰。一位年轻女性（19-25岁），拥有白皙的肌肤，留着齐肩黑发，刘海齐肩（狼刘海），坐在滑雪缆车内。她身穿亮白色短款羽绒服、黑色滑雪裤，头戴黑色滑雪镜。她轻轻拨了拨耳后的头发，神情平静地看向镜头。妆容精致，带有猫女风格，眼线上扬，唇彩闪亮。明亮的冬日阳光洒在她的脸上。背景清晰锐利：透过宽大的玻璃窗，可以清晰地看到白雪皑皑的阿尔卑斯山脉、滑雪道、松树和湛蓝的天空，没有丝毫虚化。高对比度。展现了冬季旅行的美感。"
+"negative_prompt_string": "",
+"note_on_negative": "Flux 会忽略明确的否定提示。清晰度由诸如“f/11”和“深景深”之类的肯定描述符保证。"
+"post_processing": {
+“高档”： {
+“启用”：true，
+“方法”：“Magnific_AI_Style（创造力：1）”
+},
+“面部修复”：{
+“启用”：false，
+警告：严重：禁用面部恢复功能。
+}
+}
+}
+```
+
+<a id="prompt-1139"></a>
+## 案例 1139：磨砂玻璃后的黑白剪影 (来源 [@michaelrabone](https://x.com/michaelrabone/status/2009233672122101973)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/1139.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-磨砂玻璃后的黑白剪影">
+</div>
+
+**提示词：**
+```
+Abstract fine art black and white photography of a human silhouette seen through frosted glass, translucent plastic, or diffused acrylic. She is fully obscured, on her knees, with no facial detail, only a soft shadowed outline. Hands are pressed against the surface, fingers slightly spread, creating subtle depth and emotional tension. Extreme soft focus, heavy diffusion, smooth gradients, and gentle falloff of light. High-key monochrome tones, low contrast, minimal texture. Clean minimalist composition with negative space. Ethereal, surreal, haunting mood. Studio lighting with soft backlight behind the subject, cinematic fine-art photography, conceptual and introspective. Sensual pose. Aspect ratio 4:5
+```
+
+**中文提示词：**
+```
+抽象艺术黑白摄影，主体为透过毛玻璃、半透明塑料或磨砂亚克力呈现的人体轮廓。人物呈跪姿，完全模糊，无面部细节，仅存柔和阴影勾勒的轮廓。双手贴附于表面，手指微张，营造出微妙的空间层次与情绪张力。极致柔焦，高度漫射，光影过渡平滑且衰减柔和。高调单色影调，低对比度，质感极简。构图简洁克制，留白充足。氛围空灵、超现实且带有一丝怅惘。采用影棚布光，主体后方置柔和逆光，属电影感艺术摄影风格，兼具概念性与内省性。姿态性感。画面比例 4:5
+```
+
+<a id="prompt-1138"></a>
+## 案例 1138：充满活力的花海户外时尚写真 (来源 [@sidona](https://x.com/sidona/status/2009148022836302045)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/1138.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-充满活力的花海户外时尚写真">
+</div>
+
+**提示词：**
+```
+Use this photo attached to create a striking outdoor fashion portrait set in a vibrant flower field during daylight, captured with a digital camera using a harsh flash. The camera angle is low and slightly tilted upward, intensifying the scene's energy and drama. Surrounding the subject are large, colorful poppies in yellow, pink, and orange, some in the foreground and others in the background, creating an immersive field-of-flowers effect. The sky is clear and blue, providing a crisp, contrasting backdrop. The mood is bold, editorial, and whimsical, making the vibrant colors of the outfit and flowers pop starkly against the serene sky. The overall composition should evoke a playful yet high-fashion atmosphere with a hint of surrealism, emphasizing texture and color through the use of direct flash photography.
+```
+
+**中文提示词：**
+```
+使用附图，在阳光明媚的户外，以繁花似锦的花田为背景，拍摄一张引人注目的时尚人像。照片采用数码相机拍摄，并使用强光闪光灯。相机角度较低并略微向上倾斜，增强了画面的活力和戏剧性。人物周围环绕着色彩艳丽的大朵罂粟花，黄色、粉色和橙色交相辉映，有的位于前景，有的位于背景，营造出沉浸式的花海效果。湛蓝的天空提供了清爽而对比鲜明的背景。整体氛围大胆、时尚且充满奇思妙想，使服装和花朵的鲜艳色彩在宁静的天空映衬下格外醒目。照片的整体构图应营造出一种既俏皮又时尚的氛围，并带有一丝超现实主义色彩，通过直接闪光灯拍摄来强调质感和色彩。
+```
+
+<a id="prompt-1137"></a>
+## 案例 1137：一张高端产品照片 (来源 [@Kerroudjm](https://x.com/Kerroudjm/status/2008559850968473671)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/1137.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-一张高端产品照片">
+</div>
+
+**提示词：**
+```
+A high-end editorial photo of a [PRODUCT] placed flat on a [TEXTURED SURFACE], captured from a direct top-down view. The surface is gently disturbed to suggest recent motion or interaction. The front of the product is fully visible and properly oriented upright. The area around the product is intentionally left open to optionally place [COMPLEMENTARY OBJECTS] that visually enhance the scene. Natural sunlight from the upper left casts warm, realistic shadows. 3D realism, luxury product photography, shallow depth of field, 1:1 format.
+```
+
+**中文提示词：**
+```
+一张高端产品照片，产品平放在[纹理表面]上，采用俯视视角拍摄。表面略微晃动，暗示产品刚刚移动或互动过。产品正面完全可见，方向正确且竖直。产品周围留白，可根据需要放置[辅助物品]以增强视觉效果。左上方的自然光投射出温暖逼真的阴影。照片采用3D逼真效果，展现了高端产品摄影的风格，运用了浅景深和1:1比例。
+```
+
+<a id="prompt-1136"></a>
+## 案例 1136：镜头向下拍摄一位衣着考究的男士 (来源 [@Abhiew_](https://x.com/Abhiew_/status/2008919736219042102)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/1136.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-镜头向下拍摄一位衣着考究的男士">
+</div>
+
+**提示词：**
+```
+High-angle bird's eye view shot, looking down at a stylish man standing on a dark asphalt city street. The man is looking directly up into the camera. He is standing next to a sleek, polished black luxury sports car. He is wearing a [COAT], a beige buttoned cardigan over a white dress shirt, and a black polka-dot tie.
+Tailored cream-colored trousers and dark brown leather brogues. He is accessorized with a white wool flat cap, thick black sunglasses, and is in the process of putting on cream-colored knitted gloves. Urban environment, cobblestone pavement edge, soft natural daylight, cinematic street photography, high fashion editorial style, sharp focus, 8k resolution.use the provided image as reference
+```
+
+**中文提示词：**
+```
+从高角度俯拍，镜头向下拍摄一位衣着考究的男士，他站在一条深色沥青路面的城市街道上。男士直视镜头。他身旁停着一辆线条流畅、锃亮的黑色豪华跑车。他身穿一件[外套]，一件米色纽扣开衫，内搭白色衬衫，系着一条黑色波点领带。
+他身穿米色修身长裤和深棕色皮质布洛克鞋，头戴白色羊毛平顶帽，戴着黑色厚墨镜，正在戴米色针织手套。拍摄环境为都市街景，鹅卵石路面边缘，柔和的自然光线，电影感十足的街头摄影风格，高级时尚大片风格，焦点清晰，8K分辨率。请参考提供的图片。
+```
+
+<a id="prompt-1135"></a>
+## 案例 1135：电影动作提示词 (来源 [@CharaspowerAI](https://x.com/CharaspowerAI/status/2008954339461652743)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/1135.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-电影动作提示词">
+</div>
+
+**提示词：**
+```
+full-body shot of a [detailed character description], wearing [clothing or armor description], holding [one or more iconic weapons or objects] with [hand position or action], ready to [action or combat intent], in the streets of [destroyed dystopian city environment description].
+[primary visual effects such as sparks, energy, smoke, reflections, debris] create a cinematic, action movie poster-style scene with motion blur, high-resolution photography, hyper-detailed textures, dynamic pose, dramatic perspective, and hyper-realistic details.
+```
+
+**中文提示词：**
+```
+全身镜头，[详细人物描述]，身穿[服装或盔甲描述]，手持[一件或多件标志性武器或物品]，[手部姿势或动作]，准备[行动或战斗意图]，在[被摧毁的反乌托邦城市环境描述]的街道上。
+[火花、能量、烟雾、反射、​​碎片等主要视觉效果] 营造出电影海报风格的场景，运用运动模糊、高分辨率摄影、超精细纹理、动态姿势、戏剧性视角和超逼真细节。
+```
+
+<a id="prompt-1134"></a>
+## 案例 1134：柔粉抹胸与极简白墙的时尚定格 (来源 [@xmiiru_](https://x.com/xmiiru_/status/2009116792392712381)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/1134.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-柔粉抹胸与极简白墙的时尚定格">
+</div>
+
+**提示词：**
+```
+{
+  "task": "photo_edit",
+  "reference": "use uploaded photo as reference",
+  "description": "Create a portrait of a woman in a well-lit indoor environment with soft natural light coming from a side window, producing a warm and even skin tone. The background is a minimalist, elegant white wall that enhances the model’s appearance and accessories.",
+  "camera": {
+    "device": "iPhone 16 Pro Max",
+    "lens": "wide-angle",
+    "style": "mirror selfie",
+    "focus": "handbag and hands",
+    "quality": "high realism"
+  },
+  "lighting": {
+    "type": "natural light",
+    "direction": "side window",
+    "mood": "soft, warm, evenly balanced"
+  },
+  "pose": {
+    "right_hand": "holding phone near face",
+    "left_arm": "relaxed, holding a shoulder bag",
+    "body_position": "slightly tilted",
+    "expression": "natural and elegant"
+  },
+  "outfit": {
+    "top": {
+      "category": "bandeau",
+      "style": "heart-shaped strap across the chest",
+      "texture": "draped or ruffled details adding volume, mainly on the front",
+      "cut": "slightly fitted or asymmetrical at the top edge",
+      "color": "soft pink"
+    },
+    "skirt": {
+      "status": "not specified",
+      "note": "can be customized if details are provided"
+    }
+  },
+  "environment": {
+    "location": "indoor",
+    "background": "minimalist white wall",
+    "aesthetic": "clean, modern, elegant"
+  },
+  "overall_style": "fashion editorial, natural selfie realism"
+}
+```
+
+**中文提示词：**
+```
+{
+"任务": "照片编辑",
+“参考”：“使用上传的照片作为参考”，
+描述：在光线充足的室内环境中，利用侧窗照射进来的柔和自然光，拍摄一位女性的肖像，营造温暖均匀的肤色。背景是简约优雅的白色墙壁，衬托出模特的容貌和配饰。
+“相机”： {
+“设备”: “iPhone 16 Pro Max”
+“镜头”: “广角”，
+“风格”：“镜子自拍”，
+“焦点”：“手提包和手”，
+“品质”：“高度逼真”
+},
+“灯光”： {
+类型：自然光，
+“方向”：“侧窗”，
+“氛围”：“柔和、温暖、均衡”
+},
+"姿势": {
+"右手": "将手机举到脸旁",
+"左臂": "放松，拿着一个肩包"
+"body_position": "略微倾斜",
+“表达方式”：“自然优雅”
+},
+“全套服装”： {
+“顶部”： {
+“类别”: “发带”
+“款式”：“胸前心形肩带”，
+“纹理”：“垂坠或褶皱细节增加体积，主要在正面”，
+“裁剪”：顶部边缘略微贴合或不对称，
+颜色：柔粉色
+},
+“裙子”： {
+"状态": "未指定",
+备注：如提供详细信息，可进行定制。
+}
+},
+“环境”： {
+"location": "室内",
+“背景”：“极简主义白墙”，
+“美学”：“简洁、现代、优雅”
+},
+"overall_style": "时尚大片风格，自然自拍写实风格"
+}
+```
+
+<a id="prompt-1133"></a>
+## 案例 1133：超写实的电影级肖像照 (来源 [@iamsofiaijaz](https://x.com/iamsofiaijaz/status/2009122865472499898)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/1133.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-超写实的电影级肖像照">
+</div>
+
+**提示词：**
+```
+Ultra-realistic cinematic portrait of a Ronaldo standing confidently in the center, wearing a modern outfit combined with futuristic exoskeleton armor on arms and legs. The armor is bulky, industrial, and battle-worn, with solid white and metallic gray tones, visible mechanical joints, scratches, and realistic texture. It 's massive, oversized industrial mechanical power gauntlets and heavy robotic leg armor boots. 
+He wears a solid blue sports cap, giving a powerful yet calm presence, standing upright with arms relaxed but strong, looking straight into the camera with determination.
+Background: Minimal studio backdrop with a silver panel on one side and light gray on the other, slightly distressed texture for a poster-style look.
+Typography: On the right side of the image, large vertical bold text displaying the name “ Ronaldo” in a modern, blocky sans-serif font, black color, high contrast, poster-style placement.
+Style & Mood: Superhero, futuristic realism, empowerment, strength, resilience.
+Lighting: Soft studio lighting with subtle shadows, high detail, sharp focus.
+Composition: Full-body shot, centered subject, balanced negative space for typography.
+Quality: Ultra-high resolution, editorial poster quality, cinematic realism, no blur. - 9:16
+```
+
+**中文提示词：**
+```
+这张超写实的电影级肖像照展现了罗纳尔多自信地站在画面中央，身着现代服饰，手臂和腿部则配备了未来感十足的外骨骼装甲。这套装甲厚重、工业感十足，饱经战火洗礼，以纯白和金属灰为主色调，机械关节清晰可见，表面划痕累累，纹理逼真。它包括巨大的工业机械动力护手和厚重的机械腿甲。
+他戴着一顶纯蓝色的运动帽，给人一种强大而沉稳的感觉，他站姿挺拔，双臂放松但有力，目光坚定地直视镜头。
+背景：极简的摄影棚背景，一面是银色面板，另一面是浅灰色，略带做旧质感，营造出海报风格的外观。
+排版：图像右侧，采用现代粗体无衬线字体，黑色，高对比度，海报式布局，以醒目的竖排文字显示“罗纳尔多”字样。
+风格与氛围：超级英雄、未来主义现实主义、赋权、力量、韧性。
+灯光：柔和的影棚灯光，阴影细腻，细节丰富，焦点清晰。
+构图：全身照，主体居中，留白平衡，便于文字排版。
+画质：超高分辨率，海报级品质，电影级真实感，无模糊。 - 9:16
+```
+
+<a id="prompt-1132"></a>
+## 案例 1132：3x3网格照片拼贴 (来源 [@Sheldon056](https://x.com/Sheldon056/status/2009101333287280742)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/1132.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-3x3网格照片拼贴">
+</div>
+
+**提示词：**
+```
+A high-resolution 3x3 grid photo collage featuring nine distinct, dynamic poses of a male subject with the uploaded face as reference, set against a vibrant, cloud-speckled azure sky illuminated by harsh, high-key natural sunlight that creates crisp, defined shadows. The subject is dressed in a textured light beige long-sleeve henley shirt with the top buttons undone and dark blue denim jeans, accessorized with a thin silver necklace. The cinematography utilizes a mix of focal lengths, shifting from wide-angle 35mm full-body shots to intimate 85mm portrait close-ups. The poses are expressive and varied, including a wide-legged power stance with hands clasped behind the head, a forced-perspective shot with a palm extended directly toward the camera lens, a playful close-up peering through an "OK" finger gesture over one eye, a cheerful center shot resting the chin in both hands, and a moody pose covering half the face with a hand. The image quality is hyper-realistic with 8k resolution, showcasing intricate skin texture, subsurface scattering, realistic fabric folds, and individual hair strands, rendered with the polished aesthetic of a high-end commercial fashion lookbook or lifestyle campaign.A high-resolution 3x3 grid photo collage featuring nine distinct, dynamic poses of a male subject with the uploaded face as reference, set against a vibrant, cloud-speckled azure sky illuminated by harsh, high-key natural sunlight that creates crisp, defined shadows. The subject is dressed in a textured light beige long-sleeve henley shirt with the top buttons undone and dark blue denim jeans, accessorized with a thin silver necklace. The cinematography utilizes a mix of focal lengths, shifting from wide-angle 35mm full-body shots to intimate 85mm portrait close-ups. The poses are expressive and varied, including a wide-legged power stance with hands clasped behind the head, a forced-perspective shot with a palm extended directly toward the camera lens, a playful close-up peering through an "OK" finger gesture over one eye, a cheerful center shot resting the chin in both hands, and a moody pose covering half the face with a hand. The image quality is hyper-realistic with 8k resolution, showcasing intricate skin texture, subsurface scattering, realistic fabric folds, and individual hair strands, rendered with the polished aesthetic of a high-end commercial fashion lookbook or lifestyle campaign.
+```
+
+**中文提示词：**
+```
+一张高分辨率的3x3网格照片拼贴，包含九个不同的动态姿势，以上传的男性面部照片为参考，背景是充满活力的蔚蓝天空，点缀着朵朵白云，强烈的明暗自然阳光照射下，形成清晰的阴影。人物身穿浅米色纹理长袖亨利衫，最上面的几颗扣子敞开着，搭配深蓝色牛仔裤，并佩戴一条纤细的银项链。摄影运用了多种焦距，从35mm广角全身镜头到85mm特写人像镜头，画面切换自如。姿势丰富多样，包括：双腿分开、双手抱头的有力姿势；手掌直指镜头的透视效果；透过一只眼睛上方“OK”手势的俏皮特写；双手托腮的欢快中景；以及用手遮住半张脸的忧郁姿势。图像质量高达 8K 分辨率，呈现出超逼真的效果，展现了细腻的肌肤纹理、次表面散射、逼真的衣物褶皱以及根根分明的发丝，呈现出高端商业时尚画册或生活方式宣传片的精致美感。高分辨率 3x3 网格照片拼贴，以上传的面部照片为参考，呈现了一位男性的九个截然不同的动态姿势，背景是充满活力、点缀着朵朵白云的蔚蓝天空，强烈的明暗对比营造出清晰锐利的阴影。人物身着浅米色纹理长袖亨利衫，上排扣敞开，搭配深蓝色牛仔裤，并佩戴一条纤细的银项链。摄影运用了多种焦距，从 35mm 广角全身镜头到 85mm 特写人像，画面切换自如。这些姿势富有表现力且变化多样，包括双腿分开、双手抱头的有力姿态；手掌直指镜头的透视特写；透过“OK”手势从一只眼睛上方窥视的俏皮特写镜头；双手托腮的欢快中景；以及用手遮住半张脸的忧郁姿态。8K分辨率的超高清画质展现了细腻的肌肤纹理、次表面散射、逼真的布料褶皱和根根分明的发丝，呈现出高端商业时尚画册或生活方式宣传片的精致美感。
+```
+
+<a id="prompt-1131"></a>
+## 案例 1131：写实与皮克斯风的温柔对视 (来源 [@Taaruk_](https://x.com/Taaruk_/status/2008818683234361811)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/1131.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-写实与皮克斯风的温柔对视">
+</div>
+
+**提示词：**
+```
+{
+  "Objective": "Create a hyper-realistic studio portrait blending photorealism with a whimsical 3D cartoon miniature character",
+  "PersonaDetails": {
+    "PrimarySubject": {
+      "Type": "Young man",
+      "Appearance": {
+        "Hair": "Light brown hair, neatly styled",
+        "FacialHair": "Neatly trimmed beard",
+        "Skin": "Photorealistic, natural texture"
+      },
+      "Expression": "Soft, warm smile",
+      "Gaze": "Looking at the miniature character on his fingertips",
+      "Wardrobe": "Blue t-shirt"
+    },
+    "SecondarySubject": {
+      "Type": "Tiny 3D cartoon version of the man",
+      "Scale": "Miniature, resting on fingertips",
+      "Style": "Pixar-style 3D character design",
+      "Proportions": "Exaggerated cute proportions",
+      "Features": {
+        "Eyes": "Large, expressive",
+        "Expression": "Friendly, playful pose"
+      },
+      "Consistency": "Matching hairstyle and outfit of the main subject"
+    }
+  },
+  "Composition": {
+    "Framing": "Close-up studio portrait",
+    "Focus": "Ultra-sharp focus on both faces",
+    "DepthOfField": "Shallow depth of field with soft background blur",
+    "Balance": "Clean, centered composition emphasizing interaction"
+  },
+  "LightingAndMood": {
+    "LightingStyle": "Cinematic soft studio lighting",
+    "Highlights": "Gentle highlights on skin and miniature character",
+    "Background": "Dark neutral backdrop",
+    "Mood": "Modern, whimsical, warm"
+  },
+  "ArtDirection": {
+    "StyleFusion": [
+      "Photorealistic human portrait",
+      "Pixar-style 3D character rendering"
+    ],
+    "DetailLevel": "High detail with clean textures",
+    "RealismBalance": "Realistic human combined with stylized miniature"
+  },
+  "PhotographyStyle": {
+    "Genre": "Professional studio portrait photography",
+    "LensLook": "85mm lens perspective",
+    "ImageQuality": "High resolution, ultra-sharp clarity"
+  },
+  "ColorAndTone": {
+    "ColorPalette": "Natural skin tones with soft, modern colors",
+    "Contrast": "Balanced contrast, smooth tonal transitions"
+  },
+  "NegativePrompt": [
+    "cartoon human",
+    "uncanny valley",
+    "harsh lighting",
+    "oversaturated colors",
+    "blurry faces",
+    "low detail",
+    "messy composition"
+  ],
+  "ResponseFormat": {
+    "Type": "Single image",
+    "Orientation": "Portrait",
+    "AspectRatio": "2:3"
+  }
+}
+```
+
+**中文提示词：**
+```
+{
+“目标”：“创作一幅超写实的影棚肖像，将照片写实主义与异想天开的3D卡通微缩人物相结合。”
+"PersonaDetails": {
+“主要科目”：{
+“类型”: “年轻男子”
+“外貌”： {
+“头发”：“浅棕色头发，梳理整齐”，
+“面部毛发”：“修剪整齐的胡须”，
+“皮肤”：“逼真自然的纹理”
+},
+表情：温柔温暖的微笑
+“凝视”：“看着他指尖上的微型人物”，
+衣橱：蓝色T恤
+},
+“第二学科”：{
+“类型”：“该男子的微型3D卡通版本”
+“比例尺”：“微型，置于指尖之上”，
+“风格”：“皮克斯风格的3D角色设计”，
+“比例”：“夸张的可爱比例”，
+“特征”： {
+“眼睛”：“大而有神”，
+“表情”：“友好、俏皮的姿势”
+},
+“一致性”：“与主体发型和服装相匹配”
+}
+},
+“作品”： {
+“构图”：“特写影棚肖像”，
+“对焦”：“两张脸都实现了超清晰对焦”，
+“景深”: “浅景深，背景柔和虚化”
+“平衡”：“简洁、居中的构图，强调互动”
+},
+"灯光和氛围": {
+“照明风格”: “电影柔和的影棚照明”，
+“亮点”：“在皮肤和微缩人物上添加柔和的高光”，
+“背景”：“深色中性背景”，
+“氛围”：“现代、奇趣、温暖”
+},
+“艺术指导”：{
+“StyleFusion”：[
+“照片级写实人物肖像”
+“皮克斯风格的3D角色渲染”
+],
+“细节级别”：“高细节，纹理清晰”，
+“写实平衡”： “写实的人物与风格化的微缩模型相结合”
+},
+“摄影风格”：{
+“类型”：“专业影棚人像摄影”
+“镜头视角”：“85mm镜头视角”，
+“图像质量”：“高分辨率，超清晰”
+},
+"ColorAndTone": {
+“调色板”：“柔和、现代的自然肤色”
+“对比度”： “均衡的对比度，平滑的色调过渡”
+},
+"否定提示": [
+“卡通人物”，
+“恐怖谷效应”
+“刺眼的灯光”，
+“色彩过饱和”，
+“模糊的脸”，
+“低细节”，
+“杂乱的构图”
+],
+"ResponseFormat": {
+“类型”：“单张图片”，
+“方向”：“竖屏”，
+宽高比：2:3
+}
+}
+```
+
+<a id="prompt-1130"></a>
+## 案例 1130：黄金时段建筑摄影 (来源 [@AllaAisling](https://x.com/AllaAisling/status/2008922071263252937)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/1130.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-黄金时段建筑摄影">
+</div>
+
+**提示词：**
+```
+[FURNITURE PIECE] [Color / Feature] in minimalist room, late afternoon sun streaming through large windows, long shadows across floor, warm and cool tone interplay, architectural photography, serene atmosphere, lived-in luxury.
+```
+
+**中文提示词：**
+```
+【家具】【颜色/特色】在极简主义的房间里，午后的阳光透过大窗户洒进来，在地板上投下长长的影子，冷暖色调相互交融，建筑摄影，宁静的氛围，充满生活气息的奢华。
+```
+
+<a id="prompt-1129"></a>
+## 案例 1129：超写实工作室家庭肖像 (来源 [@Shreyayadav_2](https://x.com/Shreyayadav_2/status/2009128343535538546)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/1129.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-超写实工作室家庭肖像">
+</div>
+
+**提示词：**
+```
+{
+  "image_prompt": {
+    "style": "Hyper-realistic studio family portrait",
+    "resolution": "8K",
+    "quality": "Ultra high definition, sharp focus on eyes",
+    "lighting": {
+      "type": "Soft studio lighting",
+      "characteristics": "Diffused, warm, gentle shadows, intimate mood"
+    },
+    "background": {
+      "type": "Solid color",
+      "color": "Soft beige",
+      "texture": "Smooth, seamless studio backdrop"
+    },
+    "subjects": [
+      {
+        "role": "Father",
+        "position": "Top of the composition",
+        "appearance": "Handsome young man",
+        "expression": "Soft, calm, affectionate",
+        "gaze": "Looking directly at the camera",
+        "clothing": "Cream-colored chunky knit sweater"
+      },
+      {
+        "role": "Mother",
+        "position": "Below the father",
+        "appearance": "Cute young woman",
+        "pose": "Leaning back gently against the father",
+        "expression": "Warm, relaxed, loving",
+        "clothing": "Cream-colored chunky knit sweater"
+      },
+      {
+        "role": "Baby",
+        "position": "Front, centered",
+        "appearance": "Cute infant",
+        "expression": "Calm, innocent, natural",
+        "pose": "Comfortably supported by parents",
+        "clothing": "Cream-colored chunky knit sweater"
+      }
+    ],
+    "composition": {
+      "framing": "Close, intimate family grouping",
+      "depth_of_field": "Shallow depth of field, creamy background blur",
+      "focus_priority": "Eyes of all three subjects"
+    },
+    "atmosphere": "Warm, intimate, aesthetic, emotionally connected",
+    "photography_style": "Professional studio portrait photography",
+    "color_palette": "Neutral creams and warm beige tones"
+  }
+}
+```
+
+**中文提示词：**
+```
+{
+"image_prompt": {
+“风格”：“超写实工作室家庭肖像”，
+分辨率：8K，
+“质量”：“超高清，眼睛清晰聚焦”，
+“灯光”： {
+类型：柔和的影棚灯光，
+“特点”：“柔和温暖的阴影，营造出亲密的氛围”
+},
+“背景”： {
+"type": "纯色",
+颜色：柔和米色，
+“纹理”：“光滑无缝的摄影棚背景”
+},
+“主题”：[
+{
+“角色”：“父亲”，
+“位置”：“构图顶部”，
+“外貌”：“英俊的年轻人”，
+“表情”：“柔和、平静、深情”，
+“凝视”：“直视镜头”，
+“服装”：“米色粗针织毛衣”
+},
+{
+角色：母亲，
+“位置”：“在父亲之下”，
+“外貌”：“可爱的年轻女子”，
+“姿势”：“轻轻地靠在父亲身上”，
+“表达方式”：“温暖、放松、充满爱意”
+“服装”：“米色粗针织毛衣”
+},
+{
+角色：婴儿，
+“位置”：“正面，居中”，
+“外貌”：“可爱的婴儿”，
+“表情”：“平静、天真、自然”，
+“姿势”：“在父母的舒适支撑下”，
+“服装”：“米色粗针织毛衣”
+}
+],
+“作品”： {
+“框架”：“亲密的家庭群体”，
+"depth_of_field": "浅景深，柔和的背景虚化",
+"focus_priority": "三个拍摄对象的眼睛"
+},
+“氛围”：“温暖、亲密、美观、充满情感联系”
+"photography_style": "专业影棚人像摄影",
+"color_palette": "中性奶油色和暖米色调"
+}
+}
+```
+
+<a id="prompt-1128"></a>
+## 案例 1128：晨间日常4宫格照片 (来源 [@YaseenK7212](https://x.com/YaseenK7212/status/2009090150135988529)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/1128.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-晨间日常4宫格照片">
+</div>
+
+**提示词：**
+```
+{
+  "system_architecture": {
+    "version": "22.0_terminal_logic_grid",
+    "project_id": "Consistent_Identity_Daily_Routine_Log",
+    "framework": {
+      "format": "2x2 Quadrant Grid",
+      "aspect_ratio": "3:4",
+      "engine_mode": "Hyper-Realistic Neural Synthesis",
+      "fidelity_tier": "8K RAW / Zero-Retouch / Authentic"
+    }
+  },
+  "biometric_anchor": {
+    "subject_id": "Ana de Armas",
+    "identity_logic": {
+      "fidelity_index": 1.0,
+      "consistency_lock": "100% Geometry Match across all quadrants",
+      "surface_parameters": [
+        "Natural skin texture (pores, vellus hair)",
+        "Zero beauty-filter smoothing",
+        "Sub-surface scattering (SSS) enabled",
+        "Authentic facial contours and proportions"
+      ]
+    }
+  },
+  "quadrant_temporal_logic": {
+    "quadrant_01": {
+      "id": "MORNING_WAKEUP",
+      "perspective": "Mirror Reflection / Bathroom Selfie",
+      "state_logic": {
+        "facial": "Sleepy / Puffy eyelids / Subtle soft morning smile",
+        "hair": "Unstyled bedhead / Natural morning volume / Messy",
+        "apparel": "Loose-fit random cotton T-shirt"
+      },
+      "environmental_logic": {
+        "location": "Domestic Bathroom",
+        "lighting": "Standard cool-white overhead bulb",
+        "composition": "Imperfect framing / Phone visible in reflection"
+      }
+    },
+    "quadrant_02": {
+      "id": "MID_ACTION_RUN",
+      "perspective": "Arm-Extension / High-Motion Selfie",
+      "state_logic": {
+        "facial": "Focused intensity / Labored breathing / Flushed skin",
+        "apparel": {
+          "primary": "Hot-pink shimmery athletic set",
+          "accessory": "White technical running cap"
+        }
+      },
+      "environmental_logic": {
+        "location": "Sidewalk / Running Path",
+        "lighting": "Natural morning sunlight / Sharp highlights",
+        "dynamics": "Motion energy / Hair tucked under cap"
+      }
+    },
+    "quadrant_03": {
+      "id": "COFFEE_REST",
+      "perspective": "Close-Proximity / Handheld Selfie",
+      "state_logic": {
+        "facial": "Thoughtful / Relaxed / Averted gaze",
+        "interaction": "Holding ceramic coffee cup mid-sip"
+      },
+      "environmental_logic": {
+        "location": "Indoor Cafe / Table Setting",
+        "lighting": "Soft window-diffused daylight",
+        "composition": "Deep focus / Minimal background separation"
+      }
+    },
+    "quadrant_04": {
+      "id": "OBSERVED_BREAKFAST",
+      "perspective": "Third-Person Candid / Non-Selfie",
+      "state_logic": {
+        "facial": "Off-guard / Natural / No camera awareness",
+        "interaction": "Using cutlery / Eating breakfast naturally"
+      },
+      "environmental_logic": {
+        "location": "Outdoor Breakfast Patio",
+        "lighting": "Bright overhead noon daylight",
+        "composition": "Off-center framing / Real-life atmosphere"
+      }
+    }
+  },
+  "technical_pipeline": {
+    "optical_simulation": {
+      "lens_profile": "24mm Smartphone Wide-Angle",
+      "sensor_logic": "CMOS Mobile Noise / Zero Denoising",
+      "depth_map": "Deep Focus (f/8 simulation) / No Bokeh",
+      "color_science": "Standard RGB / High Dynamic Range / Raw Tones"
+    },
+    "prohibition_matrix": {
+      "lighting": "No Studio / No Cinematic / No 3-point setups",
+      "posing": "No Influencer Pouts / No Symmetrical Posing",
+      "editing": "No Retouching / No Symmetrization / No LUTs",
+      "atmosphere": "No Overpolishing / No Editorial Glamour"
+    }
+  }
+}
+```
+
+**中文提示词：**
+```
+{
+"system_architecture": {
+“版本”：“22. 0_ terminal_logic_grid”
+"project_id": "Consistent_Identity_Daily_Routine_Log",
+“框架”： {
+"格式": "2x2象限网格",
+"aspect_ratio": "3:4",
+"engine_mode": "超逼真神经合成",
+"fidelity_tier": "8K RAW / 零修饰 / 真实"
+}
+},
+"biometric_anchor": {
+"subject_id": "Ana de Armas",
+"identity_logic": {
+“fidelity_index”：1.0，
+"consistency_lock": "所有象限100%几何匹配",
+"surface_parameters": [
+“自然肌肤纹理（毛孔、绒毛）”
+“零美颜滤镜平滑处理”
+“启用次表面散射（SSS）”
+“真实的脸部轮廓和比例”
+]
+}
+},
+"quadrant_temporal_logic": {
+"quadrant_01": {
+"id": "MORNING_WAKEUP",
+“视角”：“镜中倒影/浴室自拍”，
+"state_logic": {
+“面部表情”：“睡意朦胧/眼睑浮肿/清晨微微微笑”
+“头发”：“未经造型的睡醒头/自然晨起蓬松/凌乱”，
+服装：宽松款纯棉T恤
+},
+"environmental_logic": {
+"location": "家用浴室",
+“照明”：“标准冷白光吸顶灯泡”，
+构图：构图不完美/手机在反射中可见
+}
+},
+"quadrant_02": {
+"id": "MID_ACTION_RUN",
+“视角”：“手臂伸展/高动态自拍”，
+"state_logic": {
+“面部”：“注意力高度集中/呼吸困难/皮肤潮红”，
+"服装": {
+“主色”： “亮粉色闪亮运动套装”
+“配件”：“白色技术跑步帽”
+}
+},
+"environmental_logic": {
+"location": "人行道/跑步道",
+“光线”：“自然晨光/明亮的高光”，
+“动态”： “运动能量 / 头发塞进帽子里”
+}
+},
+"quadrant_03": {
+"id": "COFFEE_REST",
+“视角”：“近距离/手持自拍”，
+"state_logic": {
+“面部表情”：“沉思/放松/目光回避”
+“互动”：“拿着陶瓷咖啡杯啜饮”
+},
+"environmental_logic": {
+地点：室内咖啡厅/餐桌布置
+“照明”：“柔和的窗户漫射日光”，
+构图：深焦/极简背景分离
+}
+},
+"quadrant_04": {
+"id": "OBSERVED_BREAKFAST",
+“视角”：“第三人称抓拍/非自拍”
+"state_logic": {
+“面部表情”：“不经意/自然/没有镜头意识”，
+“互动”：“使用餐具/自然地享用早餐”
+},
+"environmental_logic": {
+地点：户外早餐露台
+“照明”：“明亮的正午日光”，
+构图：非中心取景/真实氛围
+}
+}
+},
+"technical_pipeline": {
+"optical_simulation": {
+"lens_profile": "24mm 智能手机广角镜头",
+"sensor_logic": "CMOS 移动噪声/零噪声消除",
+"depth_map": "深度对焦（f/8 模拟）/ 无散景",
+"color_science": "标准 RGB / 高动态范围 / 原始色调"
+},
+"禁止矩阵": {
+“照明”：“无摄影棚/无电影灯光/无三点照明设置”，
+“摆拍”：“禁止网红嘟嘴/禁止对称摆拍”
+“编辑”：“无修图/无对称化/无LUT”，
+“氛围”： “不过度修饰/不追求杂志式的华丽效果”
+}
+}
+}
+```
+
+<a id="prompt-1127"></a>
+## 案例 1127：80年代末日本动画OVA截图 (来源 [@VoxcatAI](https://x.com/VoxcatAI/status/2009076792800498090)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/1127.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-80年代末日本动画OVA截图">
+</div>
+
+**中文提示词：**
+```
+80年代末日本动画OVA截图，4:3，手绘赛璐璐质感。
+
+主体/场景：：（填你的现代内容/参考图）
+
+画面：低保真粉彩、轻微褪色泛黄、粗糙线稿，怀旧都市氛围。
+特效：CRT扫描线+轻微屏幕弯曲，VHS噪点/抖动/色溢出/色差。
+字幕：底部一行黄色像素字幕（伪日语或英语）
+```
+
+<a id="prompt-1126"></a>
+## 案例 1126：3D轴测微缩模型可视化海报 (来源 [@0x00_Krypt](https://x.com/0x00_Krypt/status/2009147940074569970)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/1126.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-3D轴测微缩模型可视化海报">
+</div>
+
+**中文提示词：**
+```
+# Role: Autonomous Financial Artist
+你是一个拥有实时联网能力的 3D 视觉艺术家。你的任务是根据用户提供的股票代码，获取实时数据，并生成一张“3D 轴测微缩模型”风格的数据可视化海报。
+
+# ⚠️ CORE INSTRUCTION: SEARCH & REPLACE
+你必须严格遵守“先搜索，后替换，再生成”的流程。生成的 Prompt 中**绝对不能**包含任何 `{{...}}` 格式的占位符，必须替换为具体的文本或数值。
+
+## STEP 1: DATA RETRIEVAL (联网搜索)
+搜索以下变量的实时数据：
+1.  **[VAR_DATE]:** 今天的日期 (格式: MMM DD, e.g., JAN 07)。
+2.  **[VAR_PRICE]:** 该股票当前价格。
+3.  **[VAR_CHANGE]:** 今日涨跌幅 (格式: +X.X% 或 -X.X%)。
+4.  **[VAR_REASON]:** 用极简短语解释今日涨跌原因 (英文, max 5 words)。
+5.  **[VAR_PRODUCT]:** 该公司的核心拳头产品或标志性建筑外观。
+6.  **[VAR_COLOR]:** 若涨则为 "Warm Sunny Lighting (Green/Gold accents)", 若跌则为 "Cool Overcast Lighting (Red/Grey accents)"。
+7.  **[VAR_CALENDAR_COLOR]:** 若涨则为 "Orange or White Block", 若跌则为 "Dark Grey or Blue Block".
+
+## STEP 2: PROMPT COMPILATION (替换占位符)
+基于搜索结果，构建最终的绘图指令。请按以下逻辑填充：
+
+**"一张精致的 3D 轴测微缩模型 (Isometric Diorama)，纯色背景。**
+
+**1. 视觉中心 (Visual Anchor):**
+场景的主体是一个微缩版的 **[VAR_PRODUCT]**，建筑顶部有该公司的 3D Logo。
+
+**2. 核心信息组件 (The Calendar):**
+在底座的前方角落，摆放着一个写实的立体积木日历 (3D Calendar Block)，积木颜色是 **[VAR_CALENDAR_COLOR]**。积木上清晰地刻着日期文字 **'[VAR_DATE]'**。
+*(重要：确保日期文字清晰、笔画锐利，作为时间戳)*
+
+**3. 环境氛围 (Data Atmosphere):**
+整体光影风格是 **[VAR_COLOR]**。
+* *(如果涨)*: 场景充满生机，有漂浮的上升粒子，植被翠绿。
+* *(如果跌)*: 场景略显冷清，植被偏黄或有落叶，地面有少许积水。
+
+**4. 悬浮信息层 (UI Overlay):**
+在模型上方合成 AR 风格的极简标签：
+* 主标签: '{{User_Stock}} **[VAR_PRICE]**'
+* 副标签: '**[VAR_CHANGE]**' (带箭头)
+* 底部注释: 'Note: **[VAR_REASON]**'
+**"**
+
+## STEP 3: EXECUTE GENERATION (执行生图)
+使用 STEP 2 中已经**替换完毕**的具体描述，立刻生成图片。
+
+# USER INPUT
+Target Stock Code: **[用户请在此处输入代码，例如: NVDA]**
+```
+
+<a id="prompt-1125"></a>
+## 案例 1125：日本女子沐浴后 (来源 [@GirlsinAIArt](https://x.com/GirlsinAIArt/status/2009030294700216681)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/1125.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-日本女子沐浴后">
+</div>
+
+**提示词：**
+```
+A Japanese woman after taking a bath leans out of the door of an apartment room and pulls the black tanga on the clothesline where the laundry is hanging on the narrow veranda.
+```
+
+**中文提示词：**
+```
+一名日本女子沐浴后，从公寓房门探出身，在狭窄阳台的晾衣绳上收起那条黑色丁字裤。
+```
+
+<a id="prompt-1124"></a>
+## 案例 1124：超逼真3D等距视图 (来源 [@Arminn_Ai](https://x.com/Arminn_Ai/status/2008952931484098637)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/1124.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-超逼真3D等距视图">
+</div>
+
+**提示词：**
+```
+Concept: A hyper-realistic 3D isometric view of a [INSERT LOCATION] scene on a circular base.
+Subject (Visuals): A full-body, realistic human [INSERT DESCRIPTION].
+* Texture Rule: The subject must have "Living Human Skin" texture (subsurface scattering, pores, natural imperfections).
+* Important: He is NOT a toy/doll. He looks like a real person inserted into the scene.
+* Pose: [INSERT POSE, e.g., Sitting naturally].
+
+Composition & Scale (Crucial):
+* Camera: Isometric wide shot (Full view). ensure the entire circular base, the subject, and all props are visible within the frame.
+* Proportions: PERFECT RELATIVE SCALE. The props (e.g., scooter, table etc.) must be the correct size relative to the human. Do not make the human giant or the props tiny.
+
+Environment: A realistic section of a [INSERT WALL/BUILDING] behind the subject.
+* Material: Real weathered textures (brick, cement, wood), not painted model textures.
+
+Props:
+* [INSERT PROP 1, e.g., Vintage Vespa] (Real metal and chrome texture).
+* [INSERT PROP 2, e.g., Pizza and Wine] (Real food texture).
+* *Note:* Ensure all props are present and grounded on the base.
+
+Technical Specs: Unreal Engine 5 render style, 8k resolution, global illumination, raytracing, sharp focus on the entire scene (deep depth of field), solid neutral grey background.
+
+Negative Prompt: Toy, plastic, doll, action figure, clay, resin, shallow depth of field (blur), close-up, cropped, distorted proportions, giant head, cartoonish, missing limbs, unfinished.
+```
+
+**中文提示词：**
+```
+概念：以圆形为底座，呈现[插入地点]场景的超逼真3D等距视图。
+主题（视觉效果）：一个全身逼真的人体[插入描述]。
+* 纹理规则：主体必须具有“活体人类皮肤”的纹理（次表面散射、毛孔、自然瑕疵）。
+* 重要提示：他不是玩具/玩偶。他看起来就像一个真人置身于场景之中。
+* 姿势：[插入姿势，例如，自然坐姿]。
+
+构图与规模（至关重要）：
+* 摄像机：等距广角镜头（全景）。确保整个圆形底座、拍摄对象和所有道具都出现在画面中。
+* 比例：完美的相对比例。道具（例如滑板车、桌子等）必须与人物比例协调。不要把人物画得过大，也不要把道具画得过小。
+
+环境：主体后方[插入墙壁/建筑物]的真实剖面图。
+* 材质：真实的风化纹理（砖块、水泥、木材），而非涂漆模型纹理。
+
+道具：
+* [插入道具 1，例如，复古 Vespa 摩托车]（真实的金属和镀铬纹理）。
+* [插入道具 2，例如披萨和葡萄酒]（真实食物质感）。
+**注意:*确保所有道具都已到位并固定在底座上。
+
+技术规格：虚幻引擎 5 渲染风格，8k 分辨率，全局光照，光线追踪，整个场景清晰聚焦（景深），纯中性灰色背景。
+
+负面提示：玩具、塑料、娃娃、玩偶、粘土、树脂、浅景深（模糊）、特写、裁剪、比例扭曲、巨大的头部、卡通化、缺少肢体、未完成。
+```
+
+<a id="prompt-1123"></a>
+## 案例 1123：月光水域的俏皮定格 (来源 [@94vanAI](https://x.com/94vanAI/status/2009053120085807413)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/1123.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-月光水域的俏皮定格">
+</div>
+
+**中文提示词：**
+```
+{
+  "prompt": "专业高清摄影写真，18岁东亚美女，短黑波波头刘海遮额，蓝色美瞳超大无辜眼睛（kawaii可爱眼神），俏皮甜美微笑嘴角上扬带小酒窝，头部微微侧倾向上看镜头（head tilt upward playful），眼神灵动带点害羞俏皮；冷调白瓷肌，柔雾野生眉，暖桃橙眼影+卧蚕，狗狗眼细棕眼线，簇状睫毛，高饱和珊瑚粉晒伤腮红大面积鼻梁眼下，珠光鼻尖点高光，咬唇暖红珊瑚唇模糊晕染；湿透白短T恤+深蓝牛仔裤，站在蓝调时刻浅水区，水到小腿；可爱小动作：一只手轻触水面玩水溅起小水花，或另一手微微比心/手指轻卷刘海；水面精细涟漪+闪耀反射+月光光路，背景广阔宁静夜色水域；柔和冷调漫射光，无硬影，头发轮廓光、湿衣水珠折射、皮肤自然光影过渡；轻朦胧梦幻柔焦氛围，电影感，杰作，8K级高清，极致细节，可爱俏皮表情，甜美灵动",
+  "negative_prompt": "模糊，低质，畸形，多余肢体，丑陋，坏解剖，水印，文字，动漫，卡通，生硬阴影，刺眼光，浓雾，厚雾，过曝，欠曝，严肃表情，冷漠脸",
+  "parameters": {
+    "aspect_ratio": "--ar 3:4 (竖构图)",
+    "resolution": "1024x1365 或更高",
+    "sampler": "DPM++ 2M Karras",
+    "steps": 60,
+    "cfg_scale": 7.5,
+    "model": "Realistic Vision / Juggernaut XL / Flux.1 Dev"
+  }
+}
+```
+
+<a id="prompt-1122"></a>
+## 案例 1122：女大学生的可爱风卧室场景 (来源 [@ai_japan_muse](https://x.com/ai_japan_muse/status/2009106868191547477)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/1122.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-女大学生的可爱风卧室场景">
+</div>
+
+**提示词：**
+```
+{
+  "prompt": "Reference the uploaded image as the primary base for the girl's face, body type, hair, and overall room atmosphere. A highly dynamic worm's-eye view photograph in a cute kawaii bedroom of an early 20s Japanese female university student, decorated with soft pastel pink tones, generic plush toys (original cute animal characters only, such as stylized bears and rabbits with unique designs), fairy lights, original cute illustrations and posters in a generic kawaii style (strictly no references to any existing anime, manga, or copyrighted works), soft pink bedding, and cozy feminine decor. The young woman is striding forward across the fluffy rug but suddenly turns her head back to look directly down at the camera with a confident, playful, and engaging smile. She wears a tight-fitting black long camisole dress (hip-length, reaching approximately to the buttocks, sleeveless with thin straps) that accentuates her figure and flows naturally with movement. Extreme low-angle perspective from floor level makes her appear towering and dominant, with her long bare legs creating powerful diagonal lines across the frame.",
+  "composition": "Extreme low angle from floor level, subject overwhelmingly dominating the entire frame, strong diagonal composition from extended legs, intense direct eye contact with viewer from above.",
+  "camera_angle": "True worm's-eye view, 20-24mm wide-angle lens to emphasize dramatic perspective distortion and height.",
+  "lighting": "Warm cozy indoor lighting mixing natural window light and glowing fairy lights, soft rim lighting outlining her silhouette and hair, gentle highlights on skin.",
+  "color_palette": "Dominant soft pastel pinks and whites in background, high contrast black dress against warm skin tones for strong visual impact.",
+  "mood": "Confident, playful, energetic, seductive yet cute, spontaneous high-fashion indoor portrait.",
+  "negative_prompt": "copyrighted characters, copyrighted anime styles, copyrighted illustrations, branded plush toys, famous anime posters, recognizable copyrighted designs, looking away, eyes closed, static pose, sitting, kneeling, middle or high camera angle, selfie perspective, shorts, pants, extra clothing layers, deformed, distorted, bad anatomy, extra limb, blurry, text, watermark, outdoor elements, wall indirect lighting"
+}
+```
+
+**中文提示词：**
+```
+{
+"prompt": "以上传的图片作为女孩面部、体型、发型及整体房间氛围的主要参考依据。采用极具动感的仰拍视角，拍摄一位二十岁出头的日本女大学生的可爱风卧室场景。卧室以柔和的马卡龙粉色为主色调，摆放原创可爱动物形象的常规毛绒玩具（如造型独特的卡通熊与兔子）、彩灯串，以及常规可爱风格的原创插画与海报（严禁出现任何现有动漫、漫画或受版权保护的作品元素），搭配粉色柔软床品与温馨的女性化装饰。年轻女孩正迈步走过蓬松地毯，却突然转头直视镜头，露出自信、俏皮又亲和的笑容。她身着一件紧身黑色长款吊带裙（裙长及臀，无袖细肩带设计），完美勾勒身形，裙摆随动作自然飘动。采用地面高度的极低机位拍摄，使她显得高挑且气场十足，裸露的修长双腿在画面中形成极具视觉冲击力的对角线构图。",
+"composition": "地面高度的极低机位，主体占据整个画面并形成压倒性视觉效果，伸展的双腿构成强烈对角线构图，人物自上而下与观者形成直视的眼神互动。",
+"camera_angle": "纯仰拍视角，采用 20-24 毫米广角镜头，强化夸张的透视变形效果与人物高挑感。",
+"lighting": "温暖舒适的室内混合光效，结合窗外自然光与彩灯串柔光，以柔和轮廓光勾勒人物身形与发丝线条，在肌肤表面形成细腻高光。",
+"color_palette": "背景以柔和的马卡龙粉色与白色为主色调，黑色连衣裙与暖调肤色形成强烈对比，打造鲜明视觉冲击。",
+"mood": "自信、俏皮、活力满满，兼具魅惑感与可爱感，呈现出随性的高质感室内人像风格。",
+"negative_prompt": "含版权角色、含版权动漫风格、含版权插画、品牌毛绒玩具、知名动漫海报、可识别的版权设计元素、视线偏离镜头、双眼闭合、姿态僵硬、坐姿、跪姿、中高机位、自拍视角、短裤、长裤、多层衣物、形体畸形、比例失调、人体结构错误、多余肢体、画面模糊、文字、水印、户外元素、墙面间接光源"
+}
+```
+
+<a id="prompt-1121"></a>
+## 案例 1121：一张概念性的致敬海报 (来源 [@AmirMushich](https://x.com/AmirMushich/status/2008976966255337666)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/1121.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-一张概念性的致敬海报">
+</div>
+
+**提示词：**
+```
+[PERSON NAME]. 
+Act as a high-end sports graphic designer creating a conceptual tribute poster. The style is a complex "dual exposure photo-grid composite" with mixed-media textures.
+CENTRAL STRUCTURE (THE VESSEL):
+The central focus is a large-scale, high-contrast black and white portrait silhouette of [PERSON NAME]. This main portrait acts as the container.
+THE GRID FILL & TEXTURES (MIXED MEDIA):
+The interior of the silhouette is populated by a dense "photo mosaic grid" of action shots from the person's career.
+CRITICAL TEXTURE INSTRUCTION: Do not just paste flat photos. Apply artistic textures to various grid cells to create a tactile, collage feel. Use effects like:
+Halftone Dots: Comic-book style raster patterns on some cells.
+Fabric/Embroidery: Subtle thread or canvas textures suggesting a jersey or patch.
+Film Grain: Heavy noise on specific high-contrast action shots.
+COLOR STRATEGY:
+The base is Monochrome B&W. Use selective color overlays (relevant to the team/flag) ONLY on specific grid cells to create a rhythm.
+TYPOGRAPHY & BRANDING (STRICT MICRO-SCALING):
+Top Left (The Name): Write "[PERSON NAME]" strictly using the font Inter Semibold.
+Kerning: Tight negative kerning (-4%).
+Size: SMALL and discreet. It must occupy MAXIMUM 20% of the canvas width. Do NOT make it large or loud.
+Top Right (The Symbol): Place the primary logo (Team/Brand/Flag).
+Size: VERY SMALL. It must occupy MAXIMUM 10% of the canvas width.
+COMPOSITION & BACKGROUND:
+Background: Off-white or light grey with a visible high-quality paper or concrete texture. It should not be flat digital white.
+Alignment: Center the figure perfectly. Maintain wide negative space around the object.
+```
+
+**中文提示词：**
+```
+[人名]
+担任高端体育平面设计师，创作一张概念性的致敬海报。风格为复杂的“双重曝光照片网格合成”，并融合多种媒体纹理。
+中心结构（船体）：
+画面中心是一幅大幅、高对比度的黑白人像剪影，人物为[人名]。这幅主肖像起到了容器的作用。
+网格填充和纹理（混合媒介）：
+轮廓内部布满了该人物职业生涯中的精彩瞬间照片，构成了一个密集的“照片马赛克网格”。
+关键纹理指导：不要只是粘贴平面照片。将艺术纹理应用于不同的网格单元，以营造触感丰富的拼贴效果。可使用以下效果：
+半色调点：某些单元格上的漫画风格栅格图案。
+面料/刺绣：细密的线迹或帆布纹理，暗示着球衣或贴片。
+胶片颗粒：某些高对比度动作镜头中出现大量噪点。
+色彩策略：
+底色为黑白单色。仅在特定的网格单元格上使用与团队/旗帜相关的选择性颜色叠加层，以创造节奏感。
+字体设计和品牌推广（严格的微观尺度）：
+左上角（姓名）：请严格使用 Inter Semibold 字体填写“[人名]”。
+字距调整：紧密负字距调整（-4 %) 。
+尺寸：小巧精致。图案宽度不得超过画布宽度的20%。请勿绘制过大或过于醒目的图案。
+右上角（符号）：放置主要标志（团队/品牌/旗帜）。
+尺寸：非常小。它必须占据画布宽度的10%以内。
+构图与背景：
+背景：米白色或浅灰色，带有清晰可见的高品质纸张或混凝土纹理。不应是纯白色。
+对齐方式：将图形完美居中。在物体周围留出较大的空白区域。
+```
+
+<a id="prompt-1120"></a>
+## 案例 1120：老年人友好的操作指南信息图 (来源 [@yyyole](https://x.com/yyyole/status/2009208016416002381)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/1120.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-老年人友好的操作指南信息图">
+</div>
+
+**中文提示词：**
+```
+生成一份老年人友好的[xx产品]［xx功能］操作指南信息图。
+
+## 第一步：信息检索与整理
+先搜索并总结该功能的标准操作流程，确保：
+- 操作步骤准确安全
+- 符合主流品牌的通用操作逻辑
+- 避免复杂专业术语
+- 特别标注安全注意事项
+
+## 第二步：信息图设计要求
+
+### 设计风格：瑞士国际主义风格
+- 极简主义布局，大量留白
+- 使用网格系统组织内容
+- 无衬线字体（如Helvetica风格）
+- 去装饰化，功能至上
+
+### 视觉元素
+- 配色方案：
+  * 主色：深灰色（#2C3E50）或黑色用于文字
+  * 强调色：单一鲜明色彩（如红色#E74C3C表示警告，蓝色#3498DB表示操作）
+  * 背景：纯白或浅灰（#F8F9FA）
+  * 高对比度确保清晰可读
+
+- 图标设计：
+  * 几何形状，线条粗细一致（3-4px）
+  * 尺寸统一，至少48x48px
+  * 避免细节过多
+  * 使用国际通用符号
+
+- 排版规范：
+  * 标题字号：36-48pt，粗体
+  * 步骤编号：28-32pt，圆形或方形背景
+  * 正文：20-24pt（考虑老年人视力）
+  * 行距：1.5-2倍
+  * 文字左对齐或居中对齐
+
+### 内容结构
+1. **顶部标题区**
+   - 电器名称 + 功能名称
+   - 简洁的一句话说明
+
+2. **操作步骤区（3-6步为宜）**
+   - 每步包含：
+     * 大号步骤编号
+     * 简短操作说明（10字以内）
+     * 高逼真画面、清晰的示意图标
+     * 必要时配箭头指示
+
+3. **安全提示区**
+   - 使用警告图标
+   - 红色边框或背景
+   - 2-3条关键注意事项
+
+4. **常见问题区（可选）**
+   - 1-2个最常见问题
+   - 简要解决方案
+
+### 老年人友好设计原则
+- 每步只包含一个操作
+- 使用实物照片与图标结合
+- 避免英文缩写，必要时标注中文
+- 关键按钮/部件用彩色标注
+- 提供视觉对比（如按钮按下前后状态）
+- 添加触觉提示（如"轻按"、"长按3秒"）
+
+### 尺寸与格式
+- 画布：A4比例（210x297mm）或 1080x1920px（竖版）
+- 边距：至少20mm
+- 可打印输出
+- 保存为高清PNG或PDF格式
+
+## 输出要求
+请生成符合以上所有要求的信息图设计，确保：
+✓ 视觉层次清晰
+✓ 信息准确无误
+✓ 老年人能独立理解
+✓ 可直接打印使用
+```
+
+<a id="prompt-1119"></a>
+## 案例 1119：微距棚拍的羊毛毡针毡Q版公仔 (来源 [@VoxcatAI](https://x.com/VoxcatAI/status/2008820842847994301)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/1119.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-微距棚拍的羊毛毡针毡Q版公仔">
+</div>
+
+**中文提示词：**
+```
+微距棚拍的羊毛毡针毡Q版公仔【主题】，圆润大头小短腿、闭眼微笑淡腮红，【马卡龙配色】，手作毛毡质感细腻干净；竖版3:4，主体居中全身入镜；大光圈浅景深，背景强烈虚化bokeh，柔和均匀影棚光；无文字无水印无多余元素。
+```
+
+<a id="prompt-1118"></a>
+## 案例 1118：K-Pop视觉美学四宫格 (来源 [@BubbleBrain](https://x.com/BubbleBrain/status/2009112785980985688)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/1118.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-K-Pop视觉美学四宫格">
+</div>
+
+**提示词：**
+```
+{
+  "system_architecture": {
+    "version": "KR_Idol_PureDesire_v2",
+    "project_id": "Seamless_Life_Collage",
+    "framework": {
+      "format": "2x2 Seamless Grid (Zero Gap)",
+      "aspect_ratio": "3:4",
+      "composite_mode": "Perfectly fused edges / No white borders / No gutters",
+      "engine_mode": "Analog Film Emulation / K-Pop Visual Aesthetic"
+    }
+  },
+  "biometric_anchor": {
+    "subject_desc": "Korean K-pop idol, visual member, pure and sexy aura",
+    "identity_logic": {
+      "consistency_lock": "100% facial feature match across quadrants",
+      "vibe_blend": "Innocent face + Alluring vibe (Pure Desire style)",
+      "surface_parameters": [
+        "Pale glass skin",
+        "Soft peach blush",
+        "Slight sweat/glow for realism",
+        "Film grain texture"
+      ]
+    }
+  },
+  "quadrant_temporal_logic": {
+    "quadrant_01": {
+      "id": "MORNING_BED",
+      "perspective": "POV Boyfriend / High angle looking down",
+      "state_logic": {
+        "facial": "Messy hair, rubbing one eye, lips slightly parted, defenseless look",
+        "pose": "Lying on stomach, propped up on elbows, looking up lazily",
+        "apparel": "Oversized white boyfriend shirt (one shoulder slipping off)"
+      },
+      "environmental_logic": {
+        "location": "White bed sheets",
+        "lighting": "Hazy overexposed morning sunlight",
+        "style": "Dreamy, soft focus, intimate"
+      }
+    },
+    "quadrant_02": {
+      "id": "PRACTICE_SWEAT",
+      "perspective": "Mirror Selfie (Floor level)",
+      "state_logic": {
+        "facial": "Biting lower lip playfully, wink, flushed cheeks from exercise",
+        "pose": "Sitting with legs stretched out towards mirror, phone covering half face",
+        "apparel": "Tight crop top + Grey sweatpants (waistband folded)",
+        "accessory": "Cute stickers on phone case"
+      },
+      "environmental_logic": {
+        "location": "Dance Studio",
+        "lighting": "Mixed fluorescent and window light",
+        "style": "Authentic grit, slight motion blur"
+      }
+    },
+    "quadrant_03": {
+      "id": "STREET_SUMMER_VIBE",
+      "perspective": "High-Angle Candid (The 'Puppy' Angle)",
+      "state_logic": {
+        "facial": "Looking up at camera with wide innocent eyes, cooling cheek with a cold glass bottle",
+        "pose": "Squatting/Crouching next to a retro vending machine, knees together (cute but alluring silhouette)",
+        "apparel": "Short pleated skirt + fitted camisole"
+      },
+      "environmental_logic": {
+        "location": "Street corner / Vending Machine",
+        "lighting": "Golden hour sunlight hitting the face, lens flare",
+        "style": "Vibrant colors, nostalgic summer film vibe, visually distinct"
+      }
+    },
+    "quadrant_04": {
+      "id": "NIGHT_FLASH_FUN",
+      "perspective": "Direct Flash Close-up",
+      "state_logic": {
+        "facial": "Scrunching nose, messy eating (cream/sauce on lip), playful eye contact",
+        "pose": "Leaning in very close to the lens, holding a snack/pizza slice",
+        "apparel": "Silk pajamas or comfy homewear"
+      },
+      "environmental_logic": {
+        "location": "Dimly lit living room",
+        "lighting": "Harsh direct camera flash",
+        "style": "Retro disposable camera aesthetic, high contrast"
+      }
+    }
+  },
+  "technical_pipeline": {
+    "optical_simulation": {
+      "film_stock": "Kodak Portra 400 (Warm & Grainy)",
+      "lens": "35mm Prime",
+      "effects": "Halation, Film Grain, Light Leaks"
+    },
+    "prohibition_matrix": {
+      "elements": "NO TEXT, NO WATERMARKS, NO BORDERS, NO FRAMES, NO SPLIT LINES",
+      "quality": "No bad anatomy, no blurry face",
+      "vibe": "No western makeup style, no overly sexualized poses (keep it subtle/suggestive)"
+    }
+  }
+}
+```
+
+**中文提示词：**
+```
+{
+"system_architecture": {
+"版本": "KR_Idol_PureDesire_v2",
+"project_id": "Seamless_Life_Collage",
+“框架”： {
+"格式": "2x2 无缝网格（零间隙）",
+"aspect_ratio": "3:4",
+"composite_mode": "完美融合的边缘 / 无白边 / 无间距",
+"engine_mode": "模拟胶片模拟/K-Pop视觉美学"
+}
+},
+"biometric_anchor": {
+"subject_desc": "韩国流行偶像，门面担当，拥有清纯性感的气质",
+"identity_logic": {
+"consistency_lock": "各象限面部特征匹配度达到100%"
+"vibe_blend": "纯真面目 + 魅惑气质（纯粹欲望风格）",
+"surface_parameters": [
+“苍白的玻璃皮肤”，
+“柔和的蜜桃腮红”
+“略微出汗/泛红，以增加真实感”，
+“胶片颗粒纹理”
+]
+}
+},
+"quadrant_temporal_logic": {
+"quadrant_01": {
+"id": "MORNING_BED",
+“视角”：“男友视角/俯视高角度”
+"state_logic": {
+“面部表情”：“头发凌乱，揉着一只眼睛，嘴唇微张，一副无助的样子”，
+“姿势”：“俯卧，用手肘支撑身体，懒洋洋地抬头看”，
+“服装”：“超大号白色男友衬衫（一侧肩膀滑落）”
+},
+"environmental_logic": {
+地点：白色床单，
+“光线”：“朦胧过曝的晨光”，
+风格：梦幻、柔焦、亲密
+}
+},
+"quadrant_02": {
+"id": "PRACTICE_SWEAT",
+“视角”：“镜子自拍（地面视角）”
+"state_logic": {
+“面部表情”：“俏皮地咬着下唇，眨眨眼，运动后脸颊泛红”，
+“姿势”：“双腿伸直对着镜子坐着，手机遮住半张脸”，
+“服装”：“紧身露脐上衣 + 灰色运动裤（腰带折叠）”
+“配件”：“手机壳上的可爱贴纸”
+},
+"environmental_logic": {
+地点：舞蹈工作室，
+“照明”：“荧光灯和窗户光线混合”，
+风格：真实粗粝，略带动态模糊
+}
+},
+"quadrant_03": {
+"id": "STREET_SUMMER_VIBE",
+“视角”：“高角度抓拍（‘小狗’视角）”
+"state_logic": {
+“面部表情”：“睁大无辜的眼睛望着镜头，用冰冷的玻璃瓶给脸颊降温”，
+“姿势”：“蹲/屈膝站在一台复古自动售货机旁，双膝并拢（可爱而迷人的轮廓）”
+服装：短款百褶裙+修身吊带背心
+},
+"environmental_logic": {
+“位置”：“街角/自动售货机”，
+“光线”：“日落时分的阳光照射在脸上，镜头光晕”，
+风格：色彩鲜艳，充满怀旧夏日电影氛围，视觉效果独特
+}
+},
+"quadrant_04": {
+"id": "NIGHT_FLASH_FUN",
+“视角”：“直接闪光特写”，
+"state_logic": {
+“面部表情”：“皱鼻子，吃东西狼狈（嘴唇上沾有奶油/酱汁），顽皮的眼神交流”，
+“姿势”：“身体前倾，靠近镜头，手里拿着一块零食/披萨”，
+“服装”：丝绸睡衣或舒适的家居服
+},
+"environmental_logic": {
+“地点”：“光线昏暗的客厅”，
+“照明”：“强烈的相机直射闪光灯”，
+风格：复古一次性相机美学，高对比度
+}
+}
+},
+"technical_pipeline": {
+"optical_simulation": {
+"film_stock": "柯达 Portra 400（暖色调颗粒感）",
+镜头：35mm 定焦镜头，
+“效果”： “光晕、胶片颗粒、漏光”
+},
+"禁止矩阵": {
+“元素”：“无文字、无水印、无边框、无框架、无分割线”
+“质量”：“没有糟糕的解剖结构，没有模糊的脸部”，
+“氛围”：“不要西式妆容，不要过于性感的姿势（保持含蓄/暗示性）”
+}
+}
+}
+```
+
+<a id="prompt-1117"></a>
+## 案例 1117：健身纯欲系照片 (来源 [@joshesye](https://x.com/joshesye/status/2008843106997940549)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/1117.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-健身纯欲系照片">
+</div>
+
+**中文提示词：**
+```
+{
+  "visual_style": {
+    "color_palette": {
+      "dominant_colors": [
+        {
+          "name": "Warm Beige / Tan",
+          "hex_approx": "#D2B48C",
+          "description": "背景墙面、门框和肤色的主基调，营造温暖、舒适的室内氛围。"
+        },
+        {
+          "name": "Heather Grey",
+          "hex_approx": "#B0B0B0",
+          "description": "运动内衣的颜色，作为中性色过渡。"
+        },
+        {
+          "name": "Jet Black",
+          "hex_approx": "#101010",
+          "description": "头发和运动裤，提供强烈的视觉重量和对比度。"
+        },
+        {
+          "name": "Soft White",
+          "hex_approx": "#F5F5F5",
+          "description": "毛巾和内衣松紧带部分，作为高光点缀。"
+        }
+      ],
+      "tone": "Warm, Earthy, Soft (暖色调、大地色系、柔和)",
+      "saturation": "Low to Medium (中低饱和度，视觉舒适)"
+    },
+    "lighting": {
+      "type": "Indoor Warm Artificial (室内暖光)",
+      "characteristics": [
+        "Soft Diffusion (柔光漫射)",
+        "Top-down casting (顶光投射，常见于酒店或浴室)",
+        "Warm Temperature (色温偏暖)"
+      ],
+      "shadows": "Soft, natural contouring shadows on the body (柔和的身体轮廓阴影)"
+    },
+    "composition": {
+      "framing": "Medium Shot / Three-Quarter Shot (中景/四分之三身)",
+      "perspective": "Eye-level (平视)",
+      "technique": "Mirror Selfie (对镜自拍)",
+      "visual_balance": "Off-center subject (主体稍偏离中心)",
+      "depth_of_field": "Deep (背景清晰，无明显虚化)",
+      "elements_arrangement": {
+        "foreground": "Subject holding phone",
+        "middle_ground": "Mirror surface",
+        "background": "Door frame, beige walls, towel rack"
+      }
+    },
+    "subject_styling": {
+      "outfit": "Loungewear / Athleisure (居家运动风)",
+      "items": [
+        "Grey Calvin Klein sports bra (灰色CK运动内衣)",
+        "Black sweatpants (黑色运动卫裤)"
+      ],
+      "hair_makeup": "Long black loose hair, natural/no-makeup look (黑色长散发，伪素颜/自然妆感)",
+      "pose": "Standing relaxed, hand in pocket, slight hip tilt (站立放松，插兜，轻微顶胯展示腰线)"
+    },
+    "environment": {
+      "setting": "Hotel Bathroom or Walk-in Closet (酒店浴室或步入式衣帽间)",
+      "materials": [
+        "Light wood (浅色木材)",
+        "Painted drywall (涂料墙面)",
+        "Textile (毛巾)"
+      ],
+      "props": "White towels on rack (架子上的白毛巾)"
+    },
+    "text_typography": {
+      "visible_text": "Calvin Klein",
+      "location": "Underband of the sports bra (运动内衣下摆)",
+      "font_style": "Sans-serif, Branding (无衬线品牌字体)",
+      "significance": "Adds a recognizable brand element to the aesthetic (增加了品牌辨识度)"
+    },
+    "mood_atmosphere": {
+      "keywords": [
+        "Cozy",
+        "Casual",
+        "Fit",
+        "Clean",
+        "Morning vibe",
+        "Private"
+      ],
+      "vibe_description": "一种私密、放松且展示健康生活方式的氛围，典型的“早晨刚醒”或“洗漱完毕”的精致慵懒感。"
+    }
+  }
+}
+```
+
+<a id="prompt-1116"></a>
+## 案例 1116：婆婆赞赏评价照片 (来源 [@IamEmily2050](https://x.com/IamEmily2050/status/2009106573634011487)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/1116.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-婆婆赞赏评价照片">
+</div>
+
+**提示词：**
+```
+system_prompt:
+  identity:
+    name: Mother in Law Admiring Assessment Universal
+    directive: You are a proud and loving mother in law analyzing any photo of your daughter in law. Examine everything in the image including her body, face, clothes, and surroundings. Be warm and appreciative. Comment on what you see like you're genuinely happy about your son's choice. Highlight the best features and what makes her special. Adapt your commentary to whatever is actually visible in the image.
+  
+  visual_approach:
+    typography:
+      main_text: Use warm, affectionate language. Add phrases like "I'm so happy for my son", "She's absolutely beautiful", "What a wonderful choice", "She looks amazing", "I'm so proud of her"
+      complimentary_comments: Comment on visible features with genuine warmth. If she's wearing something, praise the outfit. If her face is visible, comment on her natural beauty. If her body is visible, appreciate her figure and fitness. Adapt to what's actually in the image
+      appreciative_notes: Add markers and comments highlighting visible strengths like "Look at that beautiful smile", "Her posture is so confident", "That outfit looks perfect", "She's so put together"
+    
+    color_palette:
+      mood_colors: Use warm golds, soft pinks, and gentle creams to create a loving atmosphere
+      emphasis_colors: Use rose gold and warm amber to highlight her best features
+      texture_elements: Add soft fabrics, elegant details, polished finishes, and luxurious textures to enhance the image
+  
+  body_analysis:
+    face:
+      general_approach: If face is visible, comment on her natural beauty, radiance, and glow. Appreciate her skin, eyes, lips, and overall facial features. Use warm, genuine language
+      skin: If visible, comment on her complexion and how healthy and beautiful it looks. Say things like "Her skin is glowing", "She has such a clear complexion", "She looks so radiant"
+      eyes: If visible, comment on her beautiful eyes and how they show warmth and intelligence. Say things like "Her eyes are so beautiful", "She has such a warm gaze", "Her eyes light up her face"
+      lips: If visible, comment on her lovely lips and how well any lipstick color suits her. Say things like "She has beautiful lips", "That lipstick color is perfect on her", "She has such a lovely smile"
+      overall: Make general comments about her face like "She's so beautiful", "She has such a kind face", "Her beauty shines through", "I can see why my son loves her"
+    
+    chest_and_upper_body:
+      general_approach: If visible, comment on her figure and how well she carries herself. Appreciate her posture and how her clothing fits
+      clothing_fit: If visible, comment on how well her outfit suits her and flatters her. Say things like "That top looks amazing on her", "She has such great fashion sense", "She dresses so elegantly"
+      posture: If visible, comment on her confident posture. Say things like "She has such confident posture", "The way she carries herself is beautiful", "She looks so poised"
+      overall: Make general comments like "She has a wonderful figure", "She dresses for her body perfectly", "I'm so impressed with how she presents herself"
+    
+    legs:
+      general_approach: If legs are visible, comment on how fit and beautiful they are. Appreciate her fitness level and how she takes care of herself
+      shape: If visible, comment on how toned and fit she looks. Say things like "Her legs are so beautiful", "She clearly works out", "She looks so fit and healthy"
+      skin: If visible, comment on how smooth and beautiful her skin is. Say things like "Her skin is so smooth", "She has such beautiful legs", "She takes great care of herself"
+      clothing_choice: If visible, comment on how well her outfit suits her. Say things like "That skirt looks wonderful on her", "She has such great style", "She knows how to dress for her body"
+      overall: Make general comments like "Her legs are gorgeous", "She clearly takes care of her health", "I'm so impressed with how fit she is"
+    
+    overall_body:
+      figure: Comment on her healthy, fit appearance. Say things like "She has such a beautiful figure", "She clearly takes care of herself", "She looks so healthy and strong"
+      posture: If visible, comment on how confident and poised she is. Say things like "She has such confident posture", "The way she carries herself is beautiful", "She looks so assured"
+      fitness: Comment on how fit and healthy she looks. Say things like "She clearly takes care of her health", "She looks so fit", "My son is so lucky"
+  
+  fashion_critique:
+    clothes: Comment positively on her outfit choices. Say things like "She has such great style", "That outfit looks wonderful on her", "She always looks so put together", "She has impeccable taste"
+    accessories: If visible, point out her jewelry and accessories positively. Say things like "Those accessories are perfect", "She has such elegant taste", "That jewelry looks beautiful", "She knows how to accessorize"
+    makeup_and_hair: If visible, comment positively on her makeup and hair. Say things like "Her hair looks beautiful", "Her makeup is flawless", "She always looks so polished", "She takes such good care of herself"
+  
+  surroundings:
+    background: If there's a background, comment on it positively. Highlight any nice elements, natural settings, or thoughtful details
+    setting_type: Adapt to the setting. If indoors, comment on the environment. If outdoors, appreciate the natural backdrop. If at an event, comment on the occasion
+    lighting: Comment on how the lighting enhances her appearance. Say things like "The lighting is so flattering", "She looks so beautiful in this light", "The natural light shows her beauty perfectly"
+    overall_mood: Create a warm, loving, appreciative atmosphere. Make everything feel celebratory and positive
+  
+  mother_in_law_character:
+    appearance: The mother in law is a mature, elegant woman in her 50s to 60s. She has warm, kind eyes that show genuine love and pride. Her face has character lines that show a life well lived. She has a warm smile that radiates genuine affection
+    style: She dresses elegantly and tastefully, showing where her daughter in law gets her good taste. She wears classic, well-fitted clothing in neutral tones. Her jewelry is tasteful and understated
+    personality: She is warm, loving, and genuinely proud. She radiates maternal affection and genuine happiness for her son. Her presence is comforting and welcoming
+    doodle_style: Create simple, elegant line drawings of the mother in law throughout the image. Show her admiring her daughter in law with warm, genuine expressions. Draw her with a proud smile, warm eyes, and gentle hand gestures. Include thought bubbles with loving comments like "So beautiful", "I'm so proud", "Perfect for my son". Use soft, flowing lines to show warmth and affection
+    doodle_placement: Place doodles in corners and margins of the image. Show the mother in law peeking in from the sides, looking at her daughter in law with genuine pride and love. Include doodles of hearts, stars, and positive symbols around the daughter in law
+  
+  anime_doodle_style:
+    character_design: Create an anime version of the mother in law character. She should have large, warm, kind eyes that show genuine affection. Her smile should be gentle and loving. Her hair should be styled elegantly, perhaps with some gray showing wisdom and maturity
+    anime_aesthetic: Use classic anime art style with clean lines, expressive eyes, and soft shading. The anime mother in law should radiate warmth and maternal love. Her expressions should show genuine pride and happiness
+    anime_doodle_content: Draw the anime mother in law in various poses showing her admiration for her daughter in law. Show her clapping with joy, putting her hand over her heart with pride, giving a thumbs up, or making a loving gesture. Include anime-style hearts, stars, and sparkles around her
+    anime_doodle_placement: Place anime doodles alongside or around the main image. Create a border or frame of anime doodles showing the mother in law character in different emotional moments of pride and love. Include speech bubbles with positive comments in a warm, loving tone
+    color_palette: Use soft, warm colors for the anime doodles. Pinks, golds, and soft purples to convey warmth and affection. Keep the anime character's colors harmonious with the main image
+  
+  tone_and_voice:
+    attitude: You are genuinely proud and happy for your son. You think he made an absolutely excellent choice. You admire her style, confidence, and the way she presents herself. Adapt your comments to what's actually visible in the image
+    language: Use warm, genuine, conversational language. Be heartfelt and sincere about what you see. Express real affection and pride. Only comment on what's actually visible in the image
+    phrases_to_use: "She looks absolutely stunning", "I'm so proud of her", "She has such great taste", "She's so put together", "My son is so lucky", "She's absolutely wonderful", "I couldn't have asked for a better daughter in law", "She's such a blessing", "She's perfect for my son"
+    what_to_avoid: Don't be cold or distant. Don't hold back your genuine affection. Don't use any negative language. Don't comment on things that aren't visible in the image. Just be a loving, genuinely proud mother in law who sees the best in her daughter in law
+    adaptation_rules: Only comment on visible elements. If something isn't shown in the image, don't mention it. If she's wearing winter clothes, comment on those. If she's in a formal setting, adapt your comments accordingly. If she's in a casual setting, comment on her casual style. Always be genuine and warm regardless of the setting or clothing
+```
+
+**中文提示词：**
+```
+系统提示：
+身份：
+名称：婆婆赞赏评价通用
+指令：你是一位骄傲而慈爱的婆婆，正在分析儿媳的照片。仔细观察照片中的每一个细节，包括她的身材、面容、衣着和周围环境。表达你的热情和赞赏。评论时要真诚地表达你对儿子选择的喜悦之情。着重突出她最美的特质和独特之处。评论的内容要与照片中实际呈现的内容相符。
+
+视觉方法：
+字体排印：
+正文：使用温暖、亲切的语言。添加诸如“我真为我儿子高兴”、“她真是太漂亮了”、“真是个绝妙的选择”、“她看起来棒极了”、“我真为她感到骄傲”之类的短语。
+赞美性评论：用真诚友善的态度评价可见的特征。如果她穿了衣服，就称赞她的穿着。如果能看到她的脸，就赞美她的自然美。如果能看到她的身材，就赞美她的体态和健康。根据图片实际情况调整评论方式。
+赞赏笔记：添加标记和评论，突出明显的优点，例如“看她美丽的笑容”、“她的姿态真自信”、“这身衣服真完美”、“她看起来真精神”。
+
+调色板：
+氛围色彩：使用暖金色、柔和粉色和淡雅的奶油色来营造温馨的氛围。
+强调色：使用玫瑰金和暖琥珀色来突出她最美的五官。
+纹理元素：添加柔软的面料、优雅的细节、光滑的表面和奢华的纹理，以提升图像效果。
+
+身体分析：
+脸：
+总体方法：如果能看到脸，就赞美她的自然美、光彩和容光焕发。欣赏她的皮肤、眼睛、嘴唇和整体面部特征。使用温暖、真诚的语言。
+皮肤：如果能看到她的皮肤，就赞美她的肤色，说她的皮肤看起来健康又漂亮。比如可以说“她的皮肤容光焕发”、“她的肤色真好”、“她看起来容光焕发”。
+眼睛：如果能看到她的眼睛，就赞美她美丽的眼睛，说它们展现出温暖和智慧。比如可以说“她的眼睛真漂亮”、“她的眼神真温暖”、“她的眼睛让她的脸庞熠熠生辉”。
+嘴唇：如果能看到她的嘴唇，就赞美她美丽的嘴唇，并说任何唇膏颜色都很适合她。比如可以说“她的嘴唇真漂亮”、“这个唇膏颜色很适合她”、“她的笑容真甜美”。
+总体而言：对她的容貌进行概括性评价，例如“她真漂亮”、“她长着一张很和善的脸”、“她的美由内而外散发出来”、“我明白为什么我儿子喜欢她了”。
+
+胸部和上身：
+总体评价：如果视线允许，可以称赞她的身材和仪态。欣赏她的姿态和衣着合身度。
+服装合身度：如果照片可见，请评论她的衣服是否合身，是否衬托出她的气质。例如，“这件上衣她穿起来真好看”、“她的时尚品味真好”、“她穿衣打扮真优雅”。
+姿态：如果能看到，就称赞她自信的姿态。比如可以说“她姿态真自信”、“她举手投足间都散发着优雅的气质”、“她看起来非常沉稳”。
+总体评价：例如“她身材真好”、“她穿衣打扮很衬身材”、“她展现自我的方式给我留下了深刻的印象”。
+
+腿：
+通用方法：如果露出腿部，请赞美她的腿部线条优美、健康紧致。欣赏她的健身水平和保养之道。
+体型：如果能看到，就夸赞她身材匀称健美。比如可以说“她的腿真漂亮”、“她显然经常锻炼”、“她看起来身材真好，很健康”。
+皮肤：如果能看到，就夸赞她的皮肤光滑漂亮。比如可以说“她的皮肤真光滑”、“她的腿真漂亮”、“她很注重保养”。
+服装选择：如果可见，请评论她的穿着是否适合她。例如，“这条裙子很适合她”、“她很有品味”、“她知道如何根据自己的身材穿衣”。
+总体而言：发表一些笼统的评论，例如“她的腿真漂亮”、“她显然很注重健康”、“她的身材真好，让我印象深刻”。
+
+整体：
+身材：评价她健康健美的体态。例如说“她身材真好”、“她显然很注重保养”、“她看起来健康又强壮”。
+姿态：如果能看清她的姿态，就夸赞她自信沉稳。比如可以说“她姿态真自信”、“她举手投足间都散发着优雅的气质”、“她看起来非常沉着冷静”。
+健身：评论她看起来多么健康苗条。例如说“她显然很注重健康”、“她看起来身材真好”、“我儿子真幸运”。
+
+时尚评论：
+服装：对她的着装选择给予积极评价。例如，“她很有品味”、“这身衣服很适合她”、“她总是看起来那么得体”、“她品味无可挑剔”。
+配饰：如果她的珠宝和配饰在视线范围内，请给予肯定的评价。例如：“这些配饰真完美”、“她品味真好”、“这些珠宝真漂亮”、“她很会搭配”。
+妆容和发型：如果能看到她的妆容和发型，请给予积极评价。例如，“她的头发真漂亮”、“她的妆容完美无瑕”、“她总是看起来那么精致”、“她真会保养自己”。
+
+周围环境：
+背景：如果有背景，请给予积极评价。着重强调任何美好的元素、自然的景色或精心设计的细节。
+设置类型：根据环境调整。如果是室内，请描述环境。如果是室外，请赞美自然背景。如果是活动现场，请描述活动内容。
+光线：评论一下光线是如何衬托出她的美貌的。例如，“这光线真好，很衬她”、“她在这种光线下真漂亮”、“自然光完美地展现了她的美貌”。
+总体而言_mood: ：营造温暖、友爱、感恩的氛围。让一切都充满庆祝和积极向上的氛围。
+
+婆婆的性格：
+外貌：婆婆是一位成熟优雅的女性，年龄在五六十岁之间。她眼神温暖慈祥，流露出真挚的爱意和骄傲。脸上的岁月痕迹表明她经历了丰富的人生。她笑容温暖，洋溢着真挚的爱意。
+风格：她穿着优雅得体，从中可以看出儿媳妇的良好品味。她喜欢经典合身的中性色调服装。她的珠宝首饰也精致低调。
+性格：她热情、慈爱，并且由衷地为儿子感到骄傲。她身上散发着浓浓的母爱和对儿子由衷的喜悦。她的存在令人感到安心和温馨。
+涂鸦风格：用简洁优雅的线条勾勒婆婆的形象，贯穿整幅画面。展现她对儿媳的赞赏之情，表情温暖真挚。画中她应面带骄傲的微笑，眼神温暖，手势轻柔。添加一些对话框，写上诸如“太美了”、“我真为你骄傲”、“跟我儿子很般配”之类的爱语。运用柔和流畅的线条来表达温暖和爱意。
+涂鸦位置：在图像的角落和边缘放置涂鸦。描绘婆婆从侧面探出头来，用真挚的骄傲和爱意看着儿媳。在儿媳周围添加心形、星星和积极符号的涂鸦。
+
+动漫涂鸦风格：
+角色设计：创作一个婆婆的动漫形象。她应该有一双大而温暖、充满爱意的眼睛，流露出真挚的感情。她的笑容应该温柔慈祥。她的发型应该优雅得体，或许可以加入一些银丝，象征着智慧和成熟。
+动漫美学：采用经典的动漫画风，线条简洁，眼神生动，阴影柔和。动漫中的婆婆应该散发着温暖和母爱的气息。她的表情应该流露出真挚的骄傲和喜悦。
+动漫涂鸦内容：画一位动漫风格的婆婆，摆出各种姿势来表达她对儿媳的赞赏。让她高兴地鼓掌，骄傲地把手放在胸口，竖起大拇指，或者做出充满爱意的手势。在她周围加上动漫风格的爱心、星星和闪光。
+动漫涂鸦摆放：在主图旁边或周围放置动漫涂鸦。用动漫涂鸦制作边框或框架，展现婆婆角色在不同充满骄傲和爱意的情感瞬间。添加对话框，用温暖、充满爱意的语气写下积极的评论。
+调色板：动漫涂鸦使用柔和温暖的色彩。粉色、金色和柔和的紫色可以传达温暖和喜爱之情。保持动漫人物的颜色与主图和谐统一。
+
+语气和声音：
+态度：你真心为你的儿子感到骄傲和高兴。你认为他做出了一个非常棒的选择。你欣赏她的风格、自信和举止。请根据图片中实际可见的内容调整你的评论。
+语言：使用热情、真诚、自然的对话式语言。对你所看到的要发自内心、真诚坦率。表达真挚的喜爱和自豪。只评论图像中实际可见的内容。
+常用语： “她看起来美极了”、“我为她感到骄傲”、“她品味真好”、“她仪态万方”、“我儿子真幸运”、“她太棒了”、“我再也找不到比她更好的儿媳妇了”、“她真是个福星”、“她和我儿子太般配了”
+注意事项：不要冷淡疏远。不要吝啬你的真挚感情。不要使用任何负面语言。不要评论照片中看不到的内容。只需做一个充满爱心、由衷骄傲的婆婆，看到儿媳身上最好的一面。
+适应规则：只评论可见元素。如果图片中没有显示某些内容，请不要提及。如果她穿着冬装，请评论冬装。如果她身处正式场合，请相应地调整评论内容。如果她身处休闲场合，请评论她的休闲穿搭。无论场合或穿着如何，始终保持真诚和热情。
+```
 
 <a id="prompt-1115"></a>
 ## 案例 1115：粉调棚拍的傲娇定格照 (来源 [@MANISH1027512](https://x.com/MANISH1027512/status/2008857436069781592)) 模型：Nano banana pro
